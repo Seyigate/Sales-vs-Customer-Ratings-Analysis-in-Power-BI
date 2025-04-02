@@ -17,7 +17,9 @@ This project explores the **correlation between sales and customer ratings** usi
 ✅ **Heatmap Visualization** → Highlights low-rated, high-selling product lines.  
 ✅ **Data-Driven Business Recommendations** → Practical strategies for improving sales.  
 
-## 📁 Dataset  
+## 📁 Dataset
+[Download dataset.csv](https://raw.githubusercontent.com/username/repository/branch/path/to/dataset.csv)
+
 The dataset includes:  
 📌 **Date & Time of Sales**  
 📌 **Total Sales Amount**  
