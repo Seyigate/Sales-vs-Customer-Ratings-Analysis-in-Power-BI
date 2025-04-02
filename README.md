@@ -1,6 +1,6 @@
 # 📊 Sales vs Customer Ratings Analysis in Power BI  
 
-![Power BI Dashboard](https://your-image-link-here.com) 
+![Power BI Dashboard] POWER BI DASHBOARD.JPG 
 👉 **Click the image to see the Dashboard** 
 
 Help suport this project!!!
