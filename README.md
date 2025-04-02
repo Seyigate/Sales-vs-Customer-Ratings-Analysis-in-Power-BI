@@ -7,7 +7,7 @@
 ## 📌 Project Overview  
 This project explores the **correlation between sales and customer ratings** using **Power BI**. The goal is to understand whether **higher customer ratings drive more sales** and how businesses can optimize their strategies using **data-driven insights** to identify **key sales patterns**, **peak demand periods**, and **underperforming product lines**.
  
- 👉 **Click the link below to see the Dashboard**
+ 👉 **Click to download the Dashboard**
 [Download Power BI Dashboard](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/main/POWER%20BI%20DASHBOARD.JPG)
 
 ## 🚀 Key Features  
@@ -18,7 +18,7 @@ This project explores the **correlation between sales and customer ratings** usi
 ✅ **Data-Driven Business Recommendations** → Practical strategies for improving sales.  
 
 ## 📁 Dataset
-👉 **Click the link to download Blugate Dataset**   [Download dataset.csv](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/11dee903c9053f46b71963ddf1e7b1896ed3436e/Bluegate%20Supermarket%20Dataset.csv)
+👉 **Click to download the Blugate Dataset**   [Download dataset.csv](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/11dee903c9053f46b71963ddf1e7b1896ed3436e/Bluegate%20Supermarket%20Dataset.csv)
 
 The dataset includes:  
 📌 **Date & Time of Sales**  
