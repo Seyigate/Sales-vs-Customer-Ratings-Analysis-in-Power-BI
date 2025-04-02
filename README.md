@@ -32,7 +32,14 @@ The dataset includes:
 ## 🛠️ Tools & Technologies  
 🔹 **Power BI** → Data modeling, visualization, and dashboard creation.  
 🔹 **Power Query** → Data transformation & cleaning.  
-🔹 **DAX (Data Analysis Expressions)** → Custom calculations & correlation metrics.  
+🔹 **DAX (Data Analysis Expressions)** → Custom calculations & correlation metrics. 
+
+### **✅ Next Steps:**  
+1️⃣ 👉 **Click the image to see the Dashboard** 
+ https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/main/POWER%20BI%20DASHBOARD.JPG
+
+
+
 
 ## 📌 How to Use This Project  
 1️⃣ **Clone the Repository**:  
