@@ -1,0 +1,1001 @@
+Invoice ID,Branch,City,Customer Type,Gender,Product Line,Unit Price,Quantity,Total Sales,Payment Method,Date,Time,Day of Week,VAT (5%),Gross Income,Customer Satisfaction Score
+INV-0001,A,New York,Member,Male,Personal Care,34.17,9,307.53,E-wallet,24/03/2024,08:09:00,Sunday,15.38,292.15,2
+INV-0002,C,Chicago,Normal,Male,Electronics,23.72,2,47.44,Cash,11/02/2024,16:35:00,Sunday,2.37,45.07,1
+INV-0003,A,New York,Member,Male,Personal Care,11.43,6,68.58,Credit Card,13/03/2024,20:09:00,Wednesday,3.43,65.15,8
+INV-0004,C,Chicago,Normal,Male,Snacks,34.96,8,279.68,Credit Card,12/03/2024,18:12:00,Tuesday,13.98,265.7,4
+INV-0005,C,Chicago,Normal,Female,Clothing,91.63,9,824.67,Credit Card,15/03/2024,21:52:00,Friday,41.23,783.44,6
+INV-0006,C,Chicago,Member,Male,Home Appliances,66.37,1,66.37,Cash,18/01/2024,16:31:00,Thursday,3.32,63.05,3
+INV-0007,A,New York,Member,Female,Snacks,49.59,1,49.59,Cash,01/02/2024,13:44:00,Thursday,2.48,47.11,8
+INV-0008,C,Chicago,Member,Male,Beverages,63.17,9,568.53,E-wallet,29/01/2024,18:23:00,Monday,28.43,540.1,9
+INV-0009,C,Chicago,Member,Female,Snacks,69.53,3,208.59,E-wallet,09/01/2024,18:24:00,Tuesday,10.43,198.16,2
+INV-0010,B,Los Angeles,Member,Female,Clothing,16.7,8,133.6,Cash,28/01/2024,09:59:00,Sunday,6.68,126.92,2
+INV-0011,A,New York,Member,Male,Personal Care,19.37,9,174.33,E-wallet,17/03/2024,20:18:00,Sunday,8.72,165.61,3
+INV-0012,C,Chicago,Member,Male,Personal Care,36.04,4,144.16,E-wallet,23/02/2024,09:17:00,Friday,7.21,136.95,5
+INV-0013,C,Chicago,Normal,Female,Home Appliances,88.52,4,354.08,Cash,13/01/2024,16:51:00,Saturday,17.7,336.38,2
+INV-0014,B,Los Angeles,Normal,Male,Home Appliances,34.67,3,104.01,Cash,08/01/2024,16:41:00,Monday,5.2,98.81,6
+INV-0015,B,Los Angeles,Normal,Female,Snacks,51.35,2,102.7,Cash,02/03/2024,17:51:00,Saturday,5.14,97.56,10
+INV-0016,C,Chicago,Normal,Female,Personal Care,88.28,4,353.12,Credit Card,09/02/2024,15:41:00,Friday,17.66,335.46,10
+INV-0017,B,Los Angeles,Normal,Male,Beverages,80.76,1,80.76,Cash,06/01/2024,12:32:00,Saturday,4.04,76.72,1
+INV-0018,B,Los Angeles,Normal,Male,Home Appliances,9,3,27,Cash,04/03/2024,13:56:00,Monday,1.35,25.65,1
+INV-0019,B,Los Angeles,Member,Female,Beverages,11.55,4,46.2,E-wallet,03/03/2024,20:31:00,Sunday,2.31,43.89,7
+INV-0020,C,Chicago,Member,Male,Home Appliances,32.25,3,96.75,Credit Card,09/03/2024,19:22:00,Saturday,4.84,91.91,6
+INV-0021,B,Los Angeles,Normal,Male,Beverages,17.49,8,139.92,E-wallet,21/03/2024,16:45:00,Thursday,7,132.92,7
+INV-0022,A,New York,Member,Female,Electronics,74.48,9,670.32,E-wallet,28/03/2024,10:05:00,Thursday,33.52,636.8,6
+INV-0023,B,Los Angeles,Member,Female,Beverages,6.11,2,12.22,Credit Card,11/03/2024,14:09:00,Monday,0.61,11.61,2
+INV-0024,A,New York,Normal,Male,Electronics,86.68,10,866.8,E-wallet,01/02/2024,21:27:00,Thursday,43.34,823.46,2
+INV-0025,A,New York,Normal,Female,Beverages,43.92,1,43.92,E-wallet,26/03/2024,10:10:00,Tuesday,2.2,41.72,9
+INV-0026,C,Chicago,Member,Male,Home Appliances,19.76,6,118.56,E-wallet,15/02/2024,09:23:00,Thursday,5.93,112.63,7
+INV-0027,C,Chicago,Normal,Female,Beverages,53.52,3,160.56,Cash,15/02/2024,20:05:00,Thursday,8.03,152.53,2
+INV-0028,C,Chicago,Normal,Female,Beverages,19.08,2,38.16,Credit Card,26/03/2024,10:27:00,Tuesday,1.91,36.25,9
+INV-0029,B,Los Angeles,Member,Female,Snacks,17.25,2,34.5,Cash,18/01/2024,18:15:00,Thursday,1.73,32.77,2
+INV-0030,B,Los Angeles,Normal,Male,Electronics,83.24,6,499.44,E-wallet,03/03/2024,09:14:00,Sunday,24.97,474.47,3
+INV-0031,B,Los Angeles,Normal,Female,Clothing,87.1,3,261.3,Cash,07/02/2024,21:53:00,Wednesday,13.07,248.23,9
+INV-0032,A,New York,Normal,Female,Beverages,72.07,10,720.7,E-wallet,28/03/2024,12:28:00,Thursday,36.04,684.66,2
+INV-0033,B,Los Angeles,Normal,Male,Snacks,61.96,10,619.6,Credit Card,17/03/2024,08:05:00,Sunday,30.98,588.62,3
+INV-0034,A,New York,Member,Male,Personal Care,60.25,8,482,E-wallet,16/01/2024,19:39:00,Tuesday,24.1,457.9,10
+INV-0035,C,Chicago,Normal,Male,Snacks,44.7,5,223.5,Cash,28/03/2024,15:33:00,Thursday,11.18,212.32,1
+INV-0036,A,New York,Normal,Male,Home Appliances,56.49,6,338.94,E-wallet,28/01/2024,10:49:00,Sunday,16.95,321.99,7
+INV-0037,A,New York,Normal,Female,Snacks,45.04,7,315.28,E-wallet,10/01/2024,09:18:00,Wednesday,15.76,299.52,6
+INV-0038,C,Chicago,Normal,Male,Clothing,48.63,1,48.63,E-wallet,04/02/2024,08:57:00,Sunday,2.43,46.2,10
+INV-0039,B,Los Angeles,Normal,Male,Clothing,65.15,10,651.5,E-wallet,22/01/2024,16:38:00,Monday,32.58,618.92,1
+INV-0040,C,Chicago,Member,Male,Home Appliances,26,3,78,Credit Card,31/01/2024,13:41:00,Wednesday,3.9,74.1,6
+INV-0041,A,New York,Member,Male,Home Appliances,69.52,3,208.56,Cash,03/03/2024,12:51:00,Sunday,10.43,198.13,8
+INV-0042,C,Chicago,Normal,Male,Personal Care,74.8,8,598.4,E-wallet,21/03/2024,17:33:00,Thursday,29.92,568.48,10
+INV-0043,B,Los Angeles,Normal,Female,Electronics,44.39,7,310.73,E-wallet,23/03/2024,20:39:00,Saturday,15.54,295.19,6
+INV-0044,B,Los Angeles,Normal,Female,Personal Care,46.82,3,140.46,E-wallet,16/01/2024,14:08:00,Tuesday,7.02,133.44,9
+INV-0045,C,Chicago,Member,Female,Snacks,57.99,4,231.96,Cash,03/02/2024,11:52:00,Saturday,11.6,220.36,3
+INV-0046,B,Los Angeles,Normal,Female,Beverages,33.72,3,101.16,Cash,28/03/2024,12:44:00,Thursday,5.06,96.1,5
+INV-0047,B,Los Angeles,Normal,Male,Beverages,47.68,9,429.12,Cash,05/03/2024,13:16:00,Tuesday,21.46,407.66,8
+INV-0048,C,Chicago,Normal,Female,Clothing,94.3,7,660.1,E-wallet,30/01/2024,13:10:00,Tuesday,33.01,627.09,1
+INV-0049,A,New York,Member,Male,Personal Care,35.51,2,71.02,Credit Card,06/01/2024,08:56:00,Saturday,3.55,67.47,4
+INV-0050,B,Los Angeles,Member,Male,Beverages,6.54,6,39.24,Cash,16/02/2024,12:20:00,Friday,1.96,37.28,4
+INV-0051,B,Los Angeles,Member,Female,Electronics,90.8,7,635.6,Credit Card,28/02/2024,17:27:00,Wednesday,31.78,603.82,1
+INV-0052,A,New York,Normal,Male,Electronics,37.15,6,222.9,Credit Card,23/02/2024,18:15:00,Friday,11.15,211.75,2
+INV-0053,B,Los Angeles,Normal,Male,Clothing,88.14,1,88.14,Cash,10/01/2024,19:51:00,Wednesday,4.41,83.73,5
+INV-0054,B,Los Angeles,Normal,Female,Electronics,18.14,2,36.28,E-wallet,28/03/2024,12:25:00,Thursday,1.81,34.47,3
+INV-0055,B,Los Angeles,Member,Male,Electronics,86.75,6,520.5,E-wallet,16/02/2024,12:01:00,Friday,26.03,494.47,6
+INV-0056,C,Chicago,Member,Female,Electronics,21.16,7,148.12,Cash,11/02/2024,15:00:00,Sunday,7.41,140.71,1
+INV-0057,B,Los Angeles,Normal,Male,Clothing,59.41,7,415.87,Credit Card,05/03/2024,11:15:00,Tuesday,20.79,395.08,5
+INV-0058,C,Chicago,Member,Male,Clothing,84.87,9,763.83,E-wallet,28/01/2024,13:07:00,Sunday,38.19,725.64,7
+INV-0059,A,New York,Member,Female,Electronics,8.04,2,16.08,Credit Card,10/02/2024,14:36:00,Saturday,0.8,15.28,8
+INV-0060,A,New York,Normal,Female,Clothing,27.31,4,109.24,Credit Card,28/01/2024,13:10:00,Sunday,5.46,103.78,8
+INV-0061,C,Chicago,Normal,Male,Electronics,29.52,9,265.68,Credit Card,21/01/2024,16:28:00,Sunday,13.28,252.4,2
+INV-0062,C,Chicago,Member,Male,Clothing,97.64,2,195.28,E-wallet,25/01/2024,12:08:00,Thursday,9.76,185.52,8
+INV-0063,C,Chicago,Member,Male,Clothing,82.71,1,82.71,E-wallet,26/03/2024,09:28:00,Tuesday,4.14,78.57,10
+INV-0064,B,Los Angeles,Normal,Female,Clothing,5.66,6,33.96,Credit Card,17/02/2024,21:25:00,Saturday,1.7,32.26,8
+INV-0065,B,Los Angeles,Normal,Male,Home Appliances,69.09,8,552.72,Credit Card,04/01/2024,13:38:00,Thursday,27.64,525.08,6
+INV-0066,B,Los Angeles,Member,Female,Electronics,36.37,8,290.96,Credit Card,16/03/2024,08:02:00,Saturday,14.55,276.41,6
+INV-0067,C,Chicago,Member,Male,Electronics,41.9,10,419,Credit Card,24/02/2024,16:13:00,Saturday,20.95,398.05,1
+INV-0068,C,Chicago,Normal,Female,Clothing,49.82,7,348.74,E-wallet,04/01/2024,12:13:00,Thursday,17.44,331.3,6
+INV-0069,A,New York,Normal,Female,Clothing,64.05,7,448.35,Cash,11/03/2024,11:31:00,Monday,22.42,425.93,4
+INV-0070,C,Chicago,Member,Male,Snacks,24.2,4,96.8,Credit Card,31/01/2024,12:05:00,Wednesday,4.84,91.96,6
+INV-0071,B,Los Angeles,Normal,Male,Personal Care,45.85,4,183.4,E-wallet,17/01/2024,15:01:00,Wednesday,9.17,174.23,9
+INV-0072,A,New York,Member,Male,Beverages,59.02,8,472.16,Credit Card,14/02/2024,18:22:00,Wednesday,23.61,448.55,10
+INV-0073,C,Chicago,Normal,Female,Beverages,76.68,8,613.44,Credit Card,18/02/2024,13:31:00,Sunday,30.67,582.77,8
+INV-0074,A,New York,Member,Female,Electronics,92.87,4,371.48,Credit Card,14/02/2024,08:46:00,Wednesday,18.57,352.91,2
+INV-0075,A,New York,Normal,Female,Clothing,75,5,375,E-wallet,15/03/2024,16:12:00,Friday,18.75,356.25,6
+INV-0076,C,Chicago,Member,Female,Personal Care,90.28,1,90.28,E-wallet,18/03/2024,11:07:00,Monday,4.51,85.77,5
+INV-0077,A,New York,Member,Male,Clothing,14.66,1,14.66,Cash,26/02/2024,21:26:00,Monday,0.73,13.93,8
+INV-0078,B,Los Angeles,Normal,Female,Snacks,94.6,8,756.8,E-wallet,02/03/2024,19:49:00,Saturday,37.84,718.96,6
+INV-0079,A,New York,Normal,Male,Home Appliances,86.59,1,86.59,E-wallet,06/02/2024,16:48:00,Tuesday,4.33,82.26,1
+INV-0080,B,Los Angeles,Normal,Female,Clothing,57.72,7,404.04,E-wallet,12/01/2024,10:04:00,Friday,20.2,383.84,5
+INV-0081,A,New York,Normal,Female,Clothing,11.44,5,57.2,E-wallet,06/01/2024,19:33:00,Saturday,2.86,54.34,6
+INV-0082,C,Chicago,Normal,Female,Personal Care,79.98,4,319.92,Cash,04/01/2024,20:16:00,Thursday,16,303.92,6
+INV-0083,C,Chicago,Normal,Female,Snacks,72.05,2,144.1,Credit Card,29/03/2024,21:31:00,Friday,7.21,136.89,9
+INV-0084,B,Los Angeles,Normal,Female,Electronics,39.4,7,275.8,E-wallet,21/02/2024,18:27:00,Wednesday,13.79,262.01,4
+INV-0085,A,New York,Normal,Male,Personal Care,55.68,10,556.8,Cash,19/01/2024,21:36:00,Friday,27.84,528.96,7
+INV-0086,A,New York,Member,Female,Home Appliances,35.15,6,210.9,Credit Card,11/02/2024,20:20:00,Sunday,10.55,200.35,5
+INV-0087,B,Los Angeles,Member,Female,Snacks,6.61,8,52.88,E-wallet,21/01/2024,17:59:00,Sunday,2.64,50.24,5
+INV-0088,B,Los Angeles,Normal,Female,Personal Care,85.7,8,685.6,Cash,16/01/2024,21:23:00,Tuesday,34.28,651.32,1
+INV-0089,A,New York,Member,Male,Beverages,85.24,7,596.68,Cash,05/02/2024,19:32:00,Monday,29.83,566.85,10
+INV-0090,C,Chicago,Normal,Female,Snacks,58.42,9,525.78,Cash,14/02/2024,14:41:00,Wednesday,26.29,499.49,5
+INV-0091,B,Los Angeles,Normal,Female,Home Appliances,89.2,6,535.2,Credit Card,06/02/2024,16:59:00,Tuesday,26.76,508.44,4
+INV-0092,B,Los Angeles,Member,Male,Beverages,29.71,9,267.39,Credit Card,23/02/2024,18:06:00,Friday,13.37,254.02,4
+INV-0093,A,New York,Normal,Female,Snacks,75.81,6,454.86,Credit Card,22/03/2024,18:58:00,Friday,22.74,432.12,7
+INV-0094,B,Los Angeles,Member,Female,Beverages,49.85,10,498.5,E-wallet,05/01/2024,13:37:00,Friday,24.93,473.57,2
+INV-0095,A,New York,Member,Female,Snacks,50.4,5,252,Credit Card,06/02/2024,14:10:00,Tuesday,12.6,239.4,4
+INV-0096,B,Los Angeles,Member,Male,Personal Care,52.47,5,262.35,Credit Card,11/01/2024,11:03:00,Thursday,13.12,249.23,1
+INV-0097,A,New York,Member,Male,Personal Care,29.5,2,59,Credit Card,30/01/2024,13:38:00,Tuesday,2.95,56.05,2
+INV-0098,B,Los Angeles,Normal,Female,Snacks,54.65,4,218.6,Credit Card,23/02/2024,14:13:00,Friday,10.93,207.67,7
+INV-0099,A,New York,Member,Male,Electronics,12.25,8,98,Cash,19/01/2024,15:21:00,Friday,4.9,93.1,6
+INV-0100,A,New York,Member,Male,Home Appliances,32.08,10,320.8,Credit Card,26/02/2024,19:35:00,Monday,16.04,304.76,2
+INV-0101,A,New York,Normal,Female,Clothing,48.06,1,48.06,Credit Card,13/01/2024,16:55:00,Saturday,2.4,45.66,9
+INV-0102,C,Chicago,Member,Female,Snacks,60.91,7,426.37,Credit Card,14/03/2024,08:22:00,Thursday,21.32,405.05,9
+INV-0103,B,Los Angeles,Normal,Female,Personal Care,40.57,8,324.56,Cash,20/02/2024,11:16:00,Tuesday,16.23,308.33,10
+INV-0104,C,Chicago,Normal,Female,Home Appliances,27.15,1,27.15,E-wallet,24/02/2024,09:21:00,Saturday,1.36,25.79,3
+INV-0105,A,New York,Member,Female,Home Appliances,97.91,5,489.55,Cash,15/01/2024,08:56:00,Monday,24.48,465.07,4
+INV-0106,B,Los Angeles,Normal,Male,Snacks,31.15,2,62.3,E-wallet,17/03/2024,12:19:00,Sunday,3.12,59.18,2
+INV-0107,C,Chicago,Member,Female,Personal Care,61.62,7,431.34,Cash,20/03/2024,08:11:00,Wednesday,21.57,409.77,3
+INV-0108,B,Los Angeles,Member,Male,Electronics,30.95,10,309.5,E-wallet,13/03/2024,21:01:00,Wednesday,15.48,294.02,6
+INV-0109,B,Los Angeles,Member,Male,Clothing,61.84,1,61.84,Credit Card,30/01/2024,15:38:00,Tuesday,3.09,58.75,1
+INV-0110,A,New York,Member,Female,Snacks,61.21,9,550.89,Credit Card,25/02/2024,18:31:00,Sunday,27.54,523.35,2
+INV-0111,C,Chicago,Normal,Male,Electronics,27.19,7,190.33,Cash,23/01/2024,18:16:00,Tuesday,9.52,180.81,1
+INV-0112,A,New York,Member,Female,Snacks,66.88,3,200.64,E-wallet,29/03/2024,11:43:00,Friday,10.03,190.61,5
+INV-0113,A,New York,Normal,Female,Home Appliances,84.5,6,507,Cash,12/03/2024,19:33:00,Tuesday,25.35,481.65,3
+INV-0114,A,New York,Member,Male,Snacks,50.03,7,350.21,E-wallet,20/03/2024,10:54:00,Wednesday,17.51,332.7,3
+INV-0115,A,New York,Normal,Male,Clothing,75.69,6,454.14,Cash,06/02/2024,20:07:00,Tuesday,22.71,431.43,6
+INV-0116,A,New York,Normal,Male,Personal Care,42.71,3,128.13,Credit Card,04/03/2024,14:21:00,Monday,6.41,121.72,9
+INV-0117,A,New York,Normal,Male,Home Appliances,44.29,9,398.61,Cash,11/01/2024,21:32:00,Thursday,19.93,378.68,2
+INV-0118,B,Los Angeles,Normal,Male,Electronics,78.66,6,471.96,E-wallet,07/02/2024,17:59:00,Wednesday,23.6,448.36,10
+INV-0119,B,Los Angeles,Normal,Male,Personal Care,80.67,1,80.67,Cash,29/01/2024,14:02:00,Monday,4.03,76.64,6
+INV-0120,C,Chicago,Member,Female,Home Appliances,11.52,7,80.64,E-wallet,09/01/2024,18:39:00,Tuesday,4.03,76.61,7
+INV-0121,B,Los Angeles,Member,Male,Electronics,62.09,5,310.45,Cash,10/01/2024,11:32:00,Wednesday,15.52,294.93,9
+INV-0122,A,New York,Member,Male,Clothing,32.72,5,163.6,E-wallet,27/01/2024,08:13:00,Saturday,8.18,155.42,3
+INV-0123,C,Chicago,Member,Male,Home Appliances,95.65,3,286.95,E-wallet,26/01/2024,10:57:00,Friday,14.35,272.6,10
+INV-0124,A,New York,Normal,Male,Personal Care,94.56,10,945.6,Cash,28/02/2024,11:43:00,Wednesday,47.28,898.32,4
+INV-0125,A,New York,Member,Female,Clothing,59.86,4,239.44,Cash,12/02/2024,09:23:00,Monday,11.97,227.47,2
+INV-0126,C,Chicago,Member,Female,Home Appliances,81.75,3,245.25,Credit Card,16/01/2024,20:42:00,Tuesday,12.26,232.99,10
+INV-0127,A,New York,Member,Female,Personal Care,47.6,10,476,Credit Card,07/03/2024,20:37:00,Thursday,23.8,452.2,10
+INV-0128,B,Los Angeles,Member,Male,Snacks,31.71,8,253.68,Cash,04/03/2024,18:09:00,Monday,12.68,241,7
+INV-0129,A,New York,Normal,Male,Beverages,29.32,7,205.24,Credit Card,16/03/2024,11:58:00,Saturday,10.26,194.98,1
+INV-0130,A,New York,Normal,Male,Electronics,66.31,9,596.79,E-wallet,27/01/2024,09:52:00,Saturday,29.84,566.95,9
+INV-0131,B,Los Angeles,Normal,Female,Home Appliances,44.35,2,88.7,Credit Card,26/02/2024,14:42:00,Monday,4.44,84.26,5
+INV-0132,A,New York,Member,Female,Electronics,28.08,9,252.72,E-wallet,11/01/2024,17:21:00,Thursday,12.64,240.08,7
+INV-0133,B,Los Angeles,Normal,Male,Snacks,69.48,8,555.84,Credit Card,06/03/2024,10:50:00,Wednesday,27.79,528.05,1
+INV-0134,B,Los Angeles,Normal,Male,Beverages,90.03,2,180.06,Credit Card,25/03/2024,09:50:00,Monday,9,171.06,4
+INV-0135,C,Chicago,Member,Female,Electronics,97.41,7,681.87,Cash,08/01/2024,13:04:00,Monday,34.09,647.78,2
+INV-0136,A,New York,Member,Female,Beverages,92.53,4,370.12,Credit Card,23/03/2024,12:59:00,Saturday,18.51,351.61,3
+INV-0137,C,Chicago,Member,Female,Beverages,60.7,2,121.4,Cash,09/03/2024,18:08:00,Saturday,6.07,115.33,2
+INV-0138,A,New York,Normal,Male,Snacks,26.12,6,156.72,Cash,18/02/2024,14:50:00,Sunday,7.84,148.88,6
+INV-0139,A,New York,Member,Male,Personal Care,25.69,1,25.69,E-wallet,29/03/2024,12:25:00,Friday,1.28,24.41,5
+INV-0140,A,New York,Member,Male,Beverages,65.9,7,461.3,E-wallet,13/01/2024,19:50:00,Saturday,23.07,438.23,3
+INV-0141,C,Chicago,Normal,Male,Snacks,44.38,2,88.76,E-wallet,18/02/2024,13:30:00,Sunday,4.44,84.32,7
+INV-0142,A,New York,Normal,Female,Beverages,40.9,3,122.7,Cash,24/01/2024,16:26:00,Wednesday,6.14,116.56,1
+INV-0143,A,New York,Normal,Male,Home Appliances,63.8,6,382.8,Cash,10/03/2024,15:59:00,Sunday,19.14,363.66,6
+INV-0144,A,New York,Normal,Male,Clothing,64.81,9,583.29,E-wallet,11/03/2024,12:58:00,Monday,29.16,554.13,2
+INV-0145,B,Los Angeles,Member,Male,Personal Care,59.98,1,59.98,Credit Card,24/03/2024,10:10:00,Sunday,3,56.98,6
+INV-0146,B,Los Angeles,Normal,Female,Beverages,37.68,4,150.72,Credit Card,08/02/2024,10:24:00,Thursday,7.54,143.18,5
+INV-0147,C,Chicago,Normal,Female,Snacks,12.86,6,77.16,E-wallet,11/03/2024,20:12:00,Monday,3.86,73.3,2
+INV-0148,B,Los Angeles,Member,Male,Personal Care,21.89,5,109.45,E-wallet,12/02/2024,13:49:00,Monday,5.47,103.98,9
+INV-0149,A,New York,Member,Male,Electronics,70.03,2,140.06,E-wallet,20/02/2024,21:44:00,Tuesday,7,133.06,9
+INV-0150,C,Chicago,Member,Male,Snacks,33.98,10,339.8,Cash,06/03/2024,12:40:00,Wednesday,16.99,322.81,8
+INV-0151,B,Los Angeles,Member,Female,Electronics,38.89,4,155.56,E-wallet,06/03/2024,10:17:00,Wednesday,7.78,147.78,8
+INV-0152,C,Chicago,Normal,Male,Personal Care,82.44,9,741.96,E-wallet,21/02/2024,14:41:00,Wednesday,37.1,704.86,5
+INV-0153,B,Los Angeles,Normal,Female,Personal Care,63.41,10,634.1,Cash,14/02/2024,20:32:00,Wednesday,31.71,602.39,1
+INV-0154,B,Los Angeles,Member,Female,Home Appliances,22.72,5,113.6,E-wallet,01/03/2024,09:07:00,Friday,5.68,107.92,6
+INV-0155,C,Chicago,Member,Male,Beverages,46.04,1,46.04,E-wallet,09/03/2024,11:36:00,Saturday,2.3,43.74,10
+INV-0156,B,Los Angeles,Normal,Female,Snacks,92.59,5,462.95,E-wallet,09/01/2024,12:25:00,Tuesday,23.15,439.8,8
+INV-0157,B,Los Angeles,Normal,Female,Snacks,47.65,1,47.65,E-wallet,17/02/2024,16:42:00,Saturday,2.38,45.27,6
+INV-0158,B,Los Angeles,Member,Male,Snacks,62.46,2,124.92,Cash,07/03/2024,11:16:00,Thursday,6.25,118.67,8
+INV-0159,A,New York,Normal,Female,Clothing,46.65,1,46.65,Cash,07/02/2024,13:56:00,Wednesday,2.33,44.32,10
+INV-0160,C,Chicago,Member,Male,Electronics,15.64,5,78.2,E-wallet,18/03/2024,17:13:00,Monday,3.91,74.29,9
+INV-0161,A,New York,Member,Female,Clothing,34.74,9,312.66,E-wallet,23/02/2024,08:35:00,Friday,15.63,297.03,2
+INV-0162,B,Los Angeles,Member,Female,Personal Care,73,6,438,Credit Card,23/01/2024,15:31:00,Tuesday,21.9,416.1,7
+INV-0163,A,New York,Normal,Female,Home Appliances,29.45,9,265.05,Cash,05/01/2024,15:48:00,Friday,13.25,251.8,2
+INV-0164,A,New York,Member,Female,Electronics,55.25,8,442,Credit Card,29/03/2024,14:57:00,Friday,22.1,419.9,4
+INV-0165,B,Los Angeles,Member,Female,Beverages,70.27,7,491.89,Credit Card,01/02/2024,13:44:00,Thursday,24.59,467.3,1
+INV-0166,B,Los Angeles,Member,Female,Snacks,37.72,8,301.76,Credit Card,25/02/2024,13:29:00,Sunday,15.09,286.67,8
+INV-0167,A,New York,Member,Male,Home Appliances,12.3,5,61.5,Cash,16/01/2024,11:33:00,Tuesday,3.08,58.42,4
+INV-0168,B,Los Angeles,Normal,Female,Beverages,92.31,5,461.55,E-wallet,24/01/2024,21:12:00,Wednesday,23.08,438.47,1
+INV-0169,C,Chicago,Member,Male,Clothing,20.02,2,40.04,Cash,29/02/2024,12:38:00,Thursday,2,38.04,2
+INV-0170,A,New York,Normal,Female,Snacks,88.18,1,88.18,Credit Card,01/01/2024,11:32:00,Monday,4.41,83.77,3
+INV-0171,C,Chicago,Normal,Male,Beverages,67.6,10,676,Credit Card,08/02/2024,11:19:00,Thursday,33.8,642.2,10
+INV-0172,C,Chicago,Normal,Male,Snacks,64.55,5,322.75,Cash,19/01/2024,18:47:00,Friday,16.14,306.61,8
+INV-0173,A,New York,Member,Male,Personal Care,99.63,9,896.67,Credit Card,03/03/2024,19:12:00,Sunday,44.83,851.84,3
+INV-0174,A,New York,Normal,Female,Clothing,9.14,5,45.7,Cash,13/03/2024,19:26:00,Wednesday,2.29,43.41,9
+INV-0175,C,Chicago,Member,Female,Beverages,8.51,1,8.51,E-wallet,20/02/2024,19:02:00,Tuesday,0.43,8.08,7
+INV-0176,A,New York,Normal,Female,Electronics,88.1,8,704.8,Credit Card,20/03/2024,09:57:00,Wednesday,35.24,669.56,7
+INV-0177,A,New York,Normal,Male,Snacks,17.58,2,35.16,E-wallet,09/03/2024,17:48:00,Saturday,1.76,33.4,5
+INV-0178,B,Los Angeles,Member,Female,Beverages,94.32,6,565.92,Credit Card,18/01/2024,16:08:00,Thursday,28.3,537.62,4
+INV-0179,C,Chicago,Normal,Male,Snacks,70.36,5,351.8,E-wallet,24/02/2024,11:11:00,Saturday,17.59,334.21,4
+INV-0180,B,Los Angeles,Normal,Female,Electronics,22.28,8,178.24,Cash,11/01/2024,13:26:00,Thursday,8.91,169.33,5
+INV-0181,C,Chicago,Member,Female,Beverages,21.22,7,148.54,Credit Card,09/02/2024,11:22:00,Friday,7.43,141.11,1
+INV-0182,C,Chicago,Normal,Male,Beverages,62.72,5,313.6,Credit Card,11/02/2024,12:23:00,Sunday,15.68,297.92,4
+INV-0183,B,Los Angeles,Normal,Male,Clothing,88.34,7,618.38,Credit Card,06/02/2024,10:39:00,Tuesday,30.92,587.46,1
+INV-0184,B,Los Angeles,Member,Male,Electronics,20.92,4,83.68,E-wallet,15/03/2024,11:12:00,Friday,4.18,79.5,1
+INV-0185,B,Los Angeles,Normal,Male,Electronics,68.82,4,275.28,Credit Card,24/02/2024,10:24:00,Saturday,13.76,261.52,10
+INV-0186,A,New York,Normal,Male,Personal Care,40.9,2,81.8,E-wallet,04/03/2024,08:03:00,Monday,4.09,77.71,8
+INV-0187,B,Los Angeles,Member,Male,Electronics,86.06,4,344.24,Cash,20/01/2024,15:19:00,Saturday,17.21,327.03,4
+INV-0188,C,Chicago,Member,Female,Beverages,47.13,7,329.91,Cash,17/01/2024,09:19:00,Wednesday,16.5,313.41,5
+INV-0189,A,New York,Normal,Male,Clothing,65.11,6,390.66,E-wallet,07/02/2024,09:14:00,Wednesday,19.53,371.13,4
+INV-0190,A,New York,Member,Male,Electronics,24.91,4,99.64,E-wallet,12/01/2024,15:50:00,Friday,4.98,94.66,1
+INV-0191,A,New York,Normal,Female,Beverages,14.43,1,14.43,Credit Card,13/01/2024,11:44:00,Saturday,0.72,13.71,6
+INV-0192,B,Los Angeles,Normal,Female,Personal Care,22.38,8,179.04,E-wallet,11/01/2024,17:14:00,Thursday,8.95,170.09,5
+INV-0193,B,Los Angeles,Normal,Male,Beverages,68.83,3,206.49,Credit Card,02/02/2024,09:20:00,Friday,10.32,196.17,6
+INV-0194,B,Los Angeles,Member,Female,Electronics,93.7,10,937,Cash,04/02/2024,09:39:00,Sunday,46.85,890.15,2
+INV-0195,C,Chicago,Member,Female,Home Appliances,9,10,90,E-wallet,27/03/2024,19:48:00,Wednesday,4.5,85.5,4
+INV-0196,C,Chicago,Normal,Female,Clothing,56.21,6,337.26,Cash,18/02/2024,15:17:00,Sunday,16.86,320.4,9
+INV-0197,B,Los Angeles,Normal,Female,Home Appliances,81.92,3,245.76,Cash,26/03/2024,19:33:00,Tuesday,12.29,233.47,10
+INV-0198,B,Los Angeles,Member,Female,Beverages,30.5,7,213.5,Cash,29/01/2024,18:00:00,Monday,10.68,202.82,7
+INV-0199,C,Chicago,Member,Female,Electronics,36.12,10,361.2,Cash,05/03/2024,13:43:00,Tuesday,18.06,343.14,3
+INV-0200,C,Chicago,Member,Female,Snacks,48.49,3,145.47,Credit Card,27/01/2024,19:21:00,Saturday,7.27,138.2,1
+INV-0201,A,New York,Normal,Female,Home Appliances,9.7,9,87.3,E-wallet,10/01/2024,13:38:00,Wednesday,4.37,82.93,1
+INV-0202,A,New York,Member,Male,Personal Care,96.92,5,484.6,E-wallet,14/03/2024,12:57:00,Thursday,24.23,460.37,1
+INV-0203,C,Chicago,Normal,Female,Clothing,83.26,10,832.6,Credit Card,11/02/2024,13:34:00,Sunday,41.63,790.97,7
+INV-0204,B,Los Angeles,Normal,Male,Beverages,52.18,10,521.8,Cash,05/03/2024,15:28:00,Tuesday,26.09,495.71,9
+INV-0205,A,New York,Member,Female,Snacks,52.98,8,423.84,Credit Card,06/02/2024,16:56:00,Tuesday,21.19,402.65,2
+INV-0206,C,Chicago,Member,Female,Snacks,70.64,8,565.12,E-wallet,26/03/2024,09:53:00,Tuesday,28.26,536.86,1
+INV-0207,C,Chicago,Member,Male,Home Appliances,62.84,4,251.36,E-wallet,18/03/2024,15:51:00,Monday,12.57,238.79,10
+INV-0208,A,New York,Normal,Female,Electronics,92.71,6,556.26,E-wallet,13/02/2024,12:44:00,Tuesday,27.81,528.45,4
+INV-0209,B,Los Angeles,Normal,Female,Personal Care,73.96,6,443.76,Cash,03/01/2024,08:39:00,Wednesday,22.19,421.57,4
+INV-0210,A,New York,Normal,Female,Clothing,10.11,2,20.22,Credit Card,20/01/2024,13:00:00,Saturday,1.01,19.21,3
+INV-0211,B,Los Angeles,Member,Male,Snacks,67.08,10,670.8,Cash,25/01/2024,08:45:00,Thursday,33.54,637.26,4
+INV-0212,B,Los Angeles,Normal,Female,Home Appliances,19.49,4,77.96,Credit Card,19/01/2024,15:41:00,Friday,3.9,74.06,10
+INV-0213,A,New York,Normal,Male,Beverages,15.06,2,30.12,Cash,27/02/2024,11:34:00,Tuesday,1.51,28.61,7
+INV-0214,C,Chicago,Member,Male,Personal Care,11.41,7,79.87,Cash,04/01/2024,10:52:00,Thursday,3.99,75.88,4
+INV-0215,C,Chicago,Normal,Female,Beverages,67.99,5,339.95,E-wallet,17/02/2024,11:46:00,Saturday,17,322.95,1
+INV-0216,A,New York,Normal,Male,Snacks,33.17,3,99.51,Cash,01/01/2024,19:04:00,Monday,4.98,94.53,4
+INV-0217,A,New York,Normal,Female,Personal Care,70.06,2,140.12,Credit Card,26/02/2024,17:28:00,Monday,7.01,133.11,2
+INV-0218,A,New York,Member,Female,Clothing,45.76,6,274.56,Credit Card,03/01/2024,13:23:00,Wednesday,13.73,260.83,4
+INV-0219,A,New York,Normal,Female,Home Appliances,74.74,5,373.7,E-wallet,15/02/2024,17:19:00,Thursday,18.68,355.02,6
+INV-0220,C,Chicago,Normal,Male,Personal Care,13.81,5,69.05,E-wallet,11/01/2024,10:32:00,Thursday,3.45,65.6,9
+INV-0221,B,Los Angeles,Member,Male,Personal Care,78.69,10,786.9,Credit Card,27/01/2024,13:57:00,Saturday,39.34,747.56,8
+INV-0222,A,New York,Normal,Female,Clothing,78.16,1,78.16,E-wallet,01/02/2024,12:47:00,Thursday,3.91,74.25,1
+INV-0223,C,Chicago,Normal,Female,Snacks,93.01,1,93.01,E-wallet,06/02/2024,20:15:00,Tuesday,4.65,88.36,9
+INV-0224,A,New York,Normal,Male,Home Appliances,18.51,9,166.59,Credit Card,15/02/2024,12:47:00,Thursday,8.33,158.26,4
+INV-0225,A,New York,Normal,Female,Home Appliances,87.79,3,263.37,E-wallet,23/02/2024,12:40:00,Friday,13.17,250.2,8
+INV-0226,C,Chicago,Normal,Female,Snacks,92.51,10,925.1,E-wallet,20/03/2024,11:41:00,Wednesday,46.26,878.84,1
+INV-0227,C,Chicago,Member,Male,Snacks,67.47,9,607.23,E-wallet,27/02/2024,12:25:00,Tuesday,30.36,576.87,3
+INV-0228,C,Chicago,Normal,Male,Beverages,66.11,10,661.1,Cash,26/03/2024,16:44:00,Tuesday,33.05,628.05,6
+INV-0229,C,Chicago,Normal,Male,Home Appliances,59.54,10,595.4,E-wallet,09/02/2024,19:53:00,Friday,29.77,565.63,9
+INV-0230,B,Los Angeles,Member,Female,Snacks,73.31,4,293.24,Cash,02/01/2024,08:06:00,Tuesday,14.66,278.58,4
+INV-0231,A,New York,Member,Female,Personal Care,87.26,5,436.3,E-wallet,26/01/2024,19:11:00,Friday,21.82,414.48,2
+INV-0232,C,Chicago,Member,Male,Snacks,96.4,3,289.2,E-wallet,13/03/2024,08:25:00,Wednesday,14.46,274.74,5
+INV-0233,C,Chicago,Member,Male,Home Appliances,32.66,6,195.96,E-wallet,09/02/2024,13:35:00,Friday,9.8,186.16,5
+INV-0234,B,Los Angeles,Member,Female,Clothing,70.6,5,353,Cash,13/01/2024,11:25:00,Saturday,17.65,335.35,1
+INV-0235,C,Chicago,Member,Female,Beverages,87.76,3,263.28,Credit Card,29/03/2024,17:36:00,Friday,13.16,250.12,5
+INV-0236,B,Los Angeles,Normal,Male,Electronics,14.37,8,114.96,E-wallet,29/02/2024,10:24:00,Thursday,5.75,109.21,8
+INV-0237,B,Los Angeles,Member,Male,Home Appliances,25.22,9,226.98,Credit Card,04/02/2024,10:30:00,Sunday,11.35,215.63,3
+INV-0238,B,Los Angeles,Normal,Female,Snacks,54.12,4,216.48,Credit Card,06/03/2024,17:53:00,Wednesday,10.82,205.66,8
+INV-0239,A,New York,Member,Female,Personal Care,20.88,1,20.88,Credit Card,01/01/2024,08:52:00,Monday,1.04,19.84,4
+INV-0240,A,New York,Normal,Male,Home Appliances,59.24,2,118.48,E-wallet,12/02/2024,09:47:00,Monday,5.92,112.56,6
+INV-0241,A,New York,Normal,Male,Electronics,65.62,8,524.96,Credit Card,25/02/2024,20:22:00,Sunday,26.25,498.71,10
+INV-0242,B,Los Angeles,Normal,Female,Home Appliances,30.2,9,271.8,Cash,24/03/2024,09:54:00,Sunday,13.59,258.21,8
+INV-0243,C,Chicago,Normal,Male,Home Appliances,29.12,7,203.84,Cash,19/03/2024,15:26:00,Tuesday,10.19,193.65,9
+INV-0244,B,Los Angeles,Member,Male,Snacks,85.23,4,340.92,Cash,05/02/2024,19:31:00,Monday,17.05,323.87,1
+INV-0245,B,Los Angeles,Member,Male,Home Appliances,54.38,10,543.8,E-wallet,13/03/2024,15:19:00,Wednesday,27.19,516.61,4
+INV-0246,A,New York,Normal,Male,Personal Care,48.21,7,337.47,E-wallet,16/02/2024,12:25:00,Friday,16.87,320.6,1
+INV-0247,B,Los Angeles,Normal,Female,Snacks,71.02,9,639.18,E-wallet,10/01/2024,09:06:00,Wednesday,31.96,607.22,10
+INV-0248,C,Chicago,Normal,Male,Home Appliances,34.69,6,208.14,Cash,06/02/2024,21:24:00,Tuesday,10.41,197.73,2
+INV-0249,B,Los Angeles,Member,Male,Beverages,48.19,4,192.76,E-wallet,25/03/2024,14:02:00,Monday,9.64,183.12,1
+INV-0250,C,Chicago,Member,Male,Electronics,89.75,1,89.75,Cash,22/02/2024,18:56:00,Thursday,4.49,85.26,5
+INV-0251,B,Los Angeles,Member,Female,Electronics,95.07,8,760.56,E-wallet,03/01/2024,18:03:00,Wednesday,38.03,722.53,8
+INV-0252,C,Chicago,Member,Female,Personal Care,35.98,8,287.84,E-wallet,11/03/2024,11:24:00,Monday,14.39,273.45,8
+INV-0253,A,New York,Member,Female,Personal Care,23.16,9,208.44,Cash,16/02/2024,13:06:00,Friday,10.42,198.02,5
+INV-0254,A,New York,Member,Male,Electronics,60.1,4,240.4,Cash,28/01/2024,08:16:00,Sunday,12.02,228.38,5
+INV-0255,A,New York,Member,Female,Beverages,33.72,8,269.76,E-wallet,03/01/2024,13:34:00,Wednesday,13.49,256.27,8
+INV-0256,C,Chicago,Normal,Male,Personal Care,70.75,5,353.75,Credit Card,23/01/2024,11:20:00,Tuesday,17.69,336.06,8
+INV-0257,B,Los Angeles,Member,Male,Personal Care,69.53,1,69.53,E-wallet,28/01/2024,10:58:00,Sunday,3.48,66.05,4
+INV-0258,A,New York,Member,Male,Personal Care,26.35,10,263.5,E-wallet,28/02/2024,17:47:00,Wednesday,13.18,250.32,6
+INV-0259,B,Los Angeles,Normal,Male,Beverages,71.96,2,143.92,Cash,10/01/2024,08:03:00,Wednesday,7.2,136.72,6
+INV-0260,C,Chicago,Member,Female,Snacks,19.43,9,174.87,Credit Card,07/03/2024,18:19:00,Thursday,8.74,166.13,1
+INV-0261,A,New York,Member,Female,Electronics,18.78,8,150.24,E-wallet,09/02/2024,18:33:00,Friday,7.51,142.73,3
+INV-0262,C,Chicago,Member,Female,Beverages,33.47,4,133.88,E-wallet,07/01/2024,17:55:00,Sunday,6.69,127.19,7
+INV-0263,A,New York,Normal,Male,Electronics,86.13,6,516.78,E-wallet,17/02/2024,15:39:00,Saturday,25.84,490.94,7
+INV-0264,A,New York,Member,Female,Clothing,45.92,1,45.92,E-wallet,12/02/2024,12:42:00,Monday,2.3,43.62,5
+INV-0265,B,Los Angeles,Member,Female,Personal Care,95.36,2,190.72,E-wallet,20/02/2024,09:50:00,Tuesday,9.54,181.18,2
+INV-0266,B,Los Angeles,Member,Male,Clothing,85.98,7,601.86,E-wallet,29/02/2024,18:49:00,Thursday,30.09,571.77,9
+INV-0267,A,New York,Normal,Male,Electronics,84.78,4,339.12,Cash,28/02/2024,20:32:00,Wednesday,16.96,322.16,9
+INV-0268,B,Los Angeles,Member,Male,Electronics,66.25,3,198.75,Cash,14/01/2024,10:33:00,Sunday,9.94,188.81,10
+INV-0269,C,Chicago,Member,Male,Beverages,75.83,8,606.64,E-wallet,23/01/2024,20:47:00,Tuesday,30.33,576.31,4
+INV-0270,B,Los Angeles,Normal,Female,Personal Care,85.19,2,170.38,Credit Card,06/01/2024,09:05:00,Saturday,8.52,161.86,3
+INV-0271,B,Los Angeles,Member,Female,Personal Care,38.29,9,344.61,E-wallet,18/02/2024,11:12:00,Sunday,17.23,327.38,8
+INV-0272,A,New York,Member,Female,Home Appliances,37.47,5,187.35,E-wallet,15/03/2024,21:48:00,Friday,9.37,177.98,7
+INV-0273,B,Los Angeles,Normal,Male,Clothing,62.87,5,314.35,E-wallet,07/02/2024,20:00:00,Wednesday,15.72,298.63,8
+INV-0274,B,Los Angeles,Normal,Female,Snacks,83.54,4,334.16,Credit Card,13/03/2024,12:36:00,Wednesday,16.71,317.45,6
+INV-0275,A,New York,Member,Female,Snacks,88.72,10,887.2,E-wallet,05/01/2024,08:06:00,Friday,44.36,842.84,7
+INV-0276,A,New York,Normal,Male,Clothing,39.82,8,318.56,Credit Card,02/03/2024,11:50:00,Saturday,15.93,302.63,10
+INV-0277,A,New York,Member,Male,Electronics,85.28,1,85.28,Credit Card,02/01/2024,18:05:00,Tuesday,4.26,81.02,5
+INV-0278,B,Los Angeles,Normal,Female,Home Appliances,98.95,6,593.7,E-wallet,03/03/2024,15:01:00,Sunday,29.69,564.01,8
+INV-0279,B,Los Angeles,Normal,Female,Clothing,6.39,4,25.56,E-wallet,26/03/2024,16:31:00,Tuesday,1.28,24.28,9
+INV-0280,B,Los Angeles,Member,Male,Snacks,69.68,9,627.12,Cash,11/03/2024,11:27:00,Monday,31.36,595.76,6
+INV-0281,C,Chicago,Normal,Female,Personal Care,5.26,6,31.56,Credit Card,28/02/2024,08:01:00,Wednesday,1.58,29.98,6
+INV-0282,B,Los Angeles,Member,Female,Beverages,31.88,10,318.8,Cash,13/02/2024,15:15:00,Tuesday,15.94,302.86,4
+INV-0283,B,Los Angeles,Normal,Female,Clothing,31.08,6,186.48,Cash,01/03/2024,09:02:00,Friday,9.32,177.16,8
+INV-0284,C,Chicago,Member,Female,Clothing,63.2,1,63.2,Cash,21/01/2024,10:58:00,Sunday,3.16,60.04,7
+INV-0285,C,Chicago,Normal,Male,Snacks,58.27,3,174.81,Credit Card,02/02/2024,18:42:00,Friday,8.74,166.07,1
+INV-0286,C,Chicago,Member,Male,Personal Care,10.2,5,51,Credit Card,17/03/2024,13:15:00,Sunday,2.55,48.45,6
+INV-0287,B,Los Angeles,Normal,Male,Electronics,40.18,4,160.72,Credit Card,24/01/2024,16:02:00,Wednesday,8.04,152.68,3
+INV-0288,A,New York,Member,Male,Home Appliances,21.87,9,196.83,Credit Card,28/02/2024,10:04:00,Wednesday,9.84,186.99,4
+INV-0289,C,Chicago,Member,Male,Snacks,66.95,4,267.8,Credit Card,25/01/2024,10:18:00,Thursday,13.39,254.41,1
+INV-0290,B,Los Angeles,Member,Male,Home Appliances,86.46,8,691.68,E-wallet,25/02/2024,11:14:00,Sunday,34.58,657.1,3
+INV-0291,A,New York,Normal,Female,Snacks,13.21,1,13.21,Cash,23/03/2024,17:45:00,Saturday,0.66,12.55,9
+INV-0292,B,Los Angeles,Normal,Female,Home Appliances,61.4,5,307,Credit Card,04/02/2024,15:49:00,Sunday,15.35,291.65,7
+INV-0293,C,Chicago,Member,Male,Personal Care,83.19,2,166.38,Credit Card,26/03/2024,08:49:00,Tuesday,8.32,158.06,7
+INV-0294,B,Los Angeles,Member,Male,Beverages,90.21,7,631.47,Credit Card,26/01/2024,14:44:00,Friday,31.57,599.9,9
+INV-0295,C,Chicago,Member,Female,Beverages,6.85,7,47.95,Credit Card,12/01/2024,15:37:00,Friday,2.4,45.55,9
+INV-0296,A,New York,Normal,Female,Snacks,10.59,2,21.18,E-wallet,02/02/2024,19:34:00,Friday,1.06,20.12,3
+INV-0297,C,Chicago,Normal,Male,Home Appliances,74.36,1,74.36,E-wallet,29/02/2024,12:32:00,Thursday,3.72,70.64,5
+INV-0298,A,New York,Normal,Male,Home Appliances,23.94,2,47.88,Cash,16/03/2024,21:08:00,Saturday,2.39,45.49,3
+INV-0299,A,New York,Member,Male,Electronics,86.58,10,865.8,Credit Card,11/03/2024,09:19:00,Monday,43.29,822.51,8
+INV-0300,C,Chicago,Normal,Male,Clothing,95.97,4,383.88,Cash,20/01/2024,19:13:00,Saturday,19.19,364.69,4
+INV-0301,B,Los Angeles,Normal,Male,Beverages,98.05,4,392.2,Cash,01/01/2024,10:23:00,Monday,19.61,372.59,4
+INV-0302,C,Chicago,Normal,Male,Snacks,36.23,9,326.07,E-wallet,26/02/2024,18:04:00,Monday,16.3,309.77,2
+INV-0303,C,Chicago,Member,Male,Electronics,10.84,1,10.84,Cash,04/02/2024,15:00:00,Sunday,0.54,10.3,6
+INV-0304,C,Chicago,Normal,Female,Snacks,14.65,2,29.3,Credit Card,07/02/2024,18:47:00,Wednesday,1.47,27.83,1
+INV-0305,A,New York,Member,Male,Personal Care,74.39,2,148.78,E-wallet,26/02/2024,17:41:00,Monday,7.44,141.34,1
+INV-0306,C,Chicago,Normal,Female,Snacks,34.98,1,34.98,E-wallet,06/03/2024,13:49:00,Wednesday,1.75,33.23,6
+INV-0307,C,Chicago,Normal,Female,Clothing,43.24,9,389.16,Cash,23/02/2024,17:22:00,Friday,19.46,369.7,5
+INV-0308,C,Chicago,Normal,Female,Electronics,26.76,3,80.28,Cash,20/01/2024,13:40:00,Saturday,4.01,76.27,6
+INV-0309,C,Chicago,Member,Male,Electronics,52.88,3,158.64,Credit Card,13/03/2024,08:07:00,Wednesday,7.93,150.71,3
+INV-0310,C,Chicago,Member,Female,Personal Care,38.57,2,77.14,Credit Card,15/01/2024,18:27:00,Monday,3.86,73.28,1
+INV-0311,C,Chicago,Member,Male,Personal Care,25.82,3,77.46,E-wallet,18/03/2024,13:25:00,Monday,3.87,73.59,6
+INV-0312,B,Los Angeles,Normal,Female,Home Appliances,24.58,3,73.74,Credit Card,29/02/2024,17:08:00,Thursday,3.69,70.05,2
+INV-0313,A,New York,Normal,Male,Home Appliances,80.8,6,484.8,Cash,20/03/2024,09:22:00,Wednesday,24.24,460.56,1
+INV-0314,B,Los Angeles,Member,Male,Home Appliances,21.76,1,21.76,Credit Card,18/02/2024,20:23:00,Sunday,1.09,20.67,2
+INV-0315,C,Chicago,Normal,Female,Clothing,77.28,4,309.12,Credit Card,29/03/2024,15:11:00,Friday,15.46,293.66,10
+INV-0316,C,Chicago,Member,Male,Personal Care,74.57,4,298.28,Credit Card,21/03/2024,14:14:00,Thursday,14.91,283.37,3
+INV-0317,A,New York,Member,Female,Electronics,8.54,2,17.08,Credit Card,15/01/2024,18:44:00,Monday,0.85,16.23,7
+INV-0318,A,New York,Member,Male,Clothing,54.79,2,109.58,Cash,14/03/2024,21:35:00,Thursday,5.48,104.1,1
+INV-0319,A,New York,Member,Male,Personal Care,23.36,7,163.52,Cash,16/01/2024,17:28:00,Tuesday,8.18,155.34,3
+INV-0320,B,Los Angeles,Member,Female,Home Appliances,27.32,9,245.88,Cash,04/02/2024,11:57:00,Sunday,12.29,233.59,7
+INV-0321,C,Chicago,Member,Male,Beverages,45.18,5,225.9,Cash,30/03/2024,14:15:00,Saturday,11.3,214.6,8
+INV-0322,A,New York,Normal,Male,Snacks,92.99,1,92.99,Cash,15/02/2024,08:13:00,Thursday,4.65,88.34,5
+INV-0323,C,Chicago,Member,Male,Personal Care,25.83,1,25.83,Credit Card,18/01/2024,09:17:00,Thursday,1.29,24.54,4
+INV-0324,C,Chicago,Normal,Male,Clothing,54.66,4,218.64,E-wallet,22/01/2024,14:16:00,Monday,10.93,207.71,7
+INV-0325,C,Chicago,Normal,Female,Beverages,81.03,10,810.3,E-wallet,26/02/2024,12:46:00,Monday,40.52,769.78,7
+INV-0326,B,Los Angeles,Normal,Male,Electronics,8.23,5,41.15,Credit Card,01/03/2024,09:19:00,Friday,2.06,39.09,4
+INV-0327,A,New York,Member,Male,Electronics,19.05,9,171.45,Cash,22/01/2024,14:28:00,Monday,8.57,162.88,1
+INV-0328,B,Los Angeles,Member,Female,Home Appliances,27.03,7,189.21,E-wallet,01/02/2024,15:39:00,Thursday,9.46,179.75,10
+INV-0329,C,Chicago,Normal,Male,Clothing,29.64,3,88.92,E-wallet,18/02/2024,16:50:00,Sunday,4.45,84.47,5
+INV-0330,C,Chicago,Member,Female,Snacks,48.35,2,96.7,E-wallet,05/01/2024,13:27:00,Friday,4.84,91.86,4
+INV-0331,A,New York,Normal,Female,Home Appliances,12.75,8,102,Cash,02/01/2024,20:23:00,Tuesday,5.1,96.9,3
+INV-0332,C,Chicago,Normal,Male,Clothing,43.57,1,43.57,E-wallet,13/03/2024,12:25:00,Wednesday,2.18,41.39,6
+INV-0333,A,New York,Member,Female,Snacks,64.8,1,64.8,Credit Card,28/03/2024,15:55:00,Thursday,3.24,61.56,2
+INV-0334,B,Los Angeles,Member,Male,Snacks,46.28,10,462.8,Cash,16/02/2024,19:03:00,Friday,23.14,439.66,6
+INV-0335,B,Los Angeles,Member,Male,Clothing,23.31,7,163.17,Cash,22/01/2024,21:59:00,Monday,8.16,155.01,1
+INV-0336,C,Chicago,Member,Female,Clothing,61.81,5,309.05,Credit Card,12/03/2024,16:34:00,Tuesday,15.45,293.6,1
+INV-0337,B,Los Angeles,Member,Female,Electronics,23.24,9,209.16,Cash,27/03/2024,13:45:00,Wednesday,10.46,198.7,4
+INV-0338,C,Chicago,Normal,Female,Personal Care,24.41,4,97.64,Cash,12/03/2024,13:22:00,Tuesday,4.88,92.76,1
+INV-0339,A,New York,Member,Male,Beverages,38.38,6,230.28,Cash,22/02/2024,14:19:00,Thursday,11.51,218.77,4
+INV-0340,A,New York,Normal,Female,Snacks,88.93,9,800.37,Cash,08/03/2024,12:11:00,Friday,40.02,760.35,8
+INV-0341,B,Los Angeles,Member,Female,Clothing,25.86,8,206.88,Cash,27/01/2024,09:35:00,Saturday,10.34,196.54,2
+INV-0342,B,Los Angeles,Member,Female,Personal Care,89.6,8,716.8,E-wallet,28/01/2024,11:50:00,Sunday,35.84,680.96,9
+INV-0343,B,Los Angeles,Member,Male,Snacks,15.07,9,135.63,E-wallet,27/01/2024,19:56:00,Saturday,6.78,128.85,1
+INV-0344,C,Chicago,Member,Female,Beverages,68.06,4,272.24,E-wallet,10/03/2024,12:34:00,Sunday,13.61,258.63,2
+INV-0345,C,Chicago,Member,Male,Snacks,91.23,1,91.23,Cash,11/03/2024,16:48:00,Monday,4.56,86.67,3
+INV-0346,A,New York,Member,Female,Home Appliances,66.52,9,598.68,Credit Card,29/01/2024,17:13:00,Monday,29.93,568.75,9
+INV-0347,B,Los Angeles,Member,Male,Clothing,81.06,8,648.48,Credit Card,23/01/2024,12:56:00,Tuesday,32.42,616.06,6
+INV-0348,C,Chicago,Member,Male,Clothing,67.2,10,672,Credit Card,25/02/2024,14:36:00,Sunday,33.6,638.4,1
+INV-0349,A,New York,Normal,Female,Personal Care,80.35,3,241.05,Credit Card,15/02/2024,15:03:00,Thursday,12.05,229,9
+INV-0350,C,Chicago,Member,Female,Snacks,75.1,6,450.6,E-wallet,21/03/2024,12:41:00,Thursday,22.53,428.07,8
+INV-0351,B,Los Angeles,Member,Female,Clothing,70.54,7,493.78,Cash,17/02/2024,10:47:00,Saturday,24.69,469.09,10
+INV-0352,B,Los Angeles,Member,Male,Clothing,35.12,8,280.96,Credit Card,16/02/2024,15:06:00,Friday,14.05,266.91,5
+INV-0353,B,Los Angeles,Member,Female,Snacks,64.92,4,259.68,E-wallet,03/03/2024,17:16:00,Sunday,12.98,246.7,5
+INV-0354,A,New York,Normal,Male,Electronics,9.07,5,45.35,E-wallet,02/03/2024,21:36:00,Saturday,2.27,43.08,10
+INV-0355,B,Los Angeles,Normal,Male,Snacks,39.32,9,353.88,E-wallet,17/03/2024,12:23:00,Sunday,17.69,336.19,2
+INV-0356,B,Los Angeles,Normal,Female,Clothing,26.41,8,211.28,E-wallet,07/03/2024,15:15:00,Thursday,10.56,200.72,2
+INV-0357,C,Chicago,Normal,Female,Electronics,67.73,7,474.11,Credit Card,27/01/2024,09:05:00,Saturday,23.71,450.4,8
+INV-0358,C,Chicago,Member,Male,Clothing,39.56,7,276.92,Cash,28/01/2024,15:25:00,Sunday,13.85,263.07,4
+INV-0359,A,New York,Normal,Male,Snacks,79.19,8,633.52,Credit Card,26/03/2024,21:19:00,Tuesday,31.68,601.84,8
+INV-0360,A,New York,Member,Male,Home Appliances,6.64,5,33.2,Credit Card,18/03/2024,12:54:00,Monday,1.66,31.54,5
+INV-0361,B,Los Angeles,Normal,Female,Clothing,39.18,10,391.8,E-wallet,06/01/2024,12:56:00,Saturday,19.59,372.21,1
+INV-0362,A,New York,Normal,Male,Electronics,84.96,5,424.8,E-wallet,21/02/2024,11:39:00,Wednesday,21.24,403.56,6
+INV-0363,A,New York,Normal,Female,Personal Care,61.17,5,305.85,Cash,07/02/2024,21:23:00,Wednesday,15.29,290.56,1
+INV-0364,C,Chicago,Normal,Female,Snacks,52.61,8,420.88,E-wallet,14/01/2024,20:40:00,Sunday,21.04,399.84,10
+INV-0365,C,Chicago,Member,Female,Snacks,7.26,8,58.08,E-wallet,16/03/2024,18:52:00,Saturday,2.9,55.18,2
+INV-0366,C,Chicago,Member,Male,Snacks,17.56,5,87.8,Cash,16/02/2024,10:14:00,Friday,4.39,83.41,1
+INV-0367,B,Los Angeles,Member,Female,Electronics,79.36,8,634.88,Credit Card,27/01/2024,13:52:00,Saturday,31.74,603.14,2
+INV-0368,A,New York,Normal,Female,Snacks,18.64,2,37.28,E-wallet,13/02/2024,16:55:00,Tuesday,1.86,35.42,5
+INV-0369,B,Los Angeles,Member,Female,Beverages,83.62,10,836.2,E-wallet,19/02/2024,17:19:00,Monday,41.81,794.39,10
+INV-0370,B,Los Angeles,Member,Male,Personal Care,94.79,7,663.53,E-wallet,03/03/2024,08:34:00,Sunday,33.18,630.35,3
+INV-0371,B,Los Angeles,Normal,Female,Home Appliances,5.27,8,42.16,E-wallet,04/03/2024,12:46:00,Monday,2.11,40.05,3
+INV-0372,C,Chicago,Normal,Male,Electronics,38.08,10,380.8,Credit Card,22/03/2024,17:37:00,Friday,19.04,361.76,3
+INV-0373,B,Los Angeles,Member,Female,Snacks,92.61,3,277.83,Cash,05/02/2024,10:35:00,Monday,13.89,263.94,4
+INV-0374,B,Los Angeles,Member,Female,Personal Care,62.64,1,62.64,Cash,10/03/2024,15:03:00,Sunday,3.13,59.51,8
+INV-0375,C,Chicago,Normal,Male,Personal Care,10.15,9,91.35,Cash,27/02/2024,17:57:00,Tuesday,4.57,86.78,6
+INV-0376,A,New York,Member,Female,Clothing,97.75,6,586.5,Credit Card,04/01/2024,08:47:00,Thursday,29.33,557.17,1
+INV-0377,B,Los Angeles,Normal,Female,Electronics,43.36,7,303.52,Cash,31/01/2024,14:35:00,Wednesday,15.18,288.34,2
+INV-0378,C,Chicago,Normal,Male,Home Appliances,88.81,8,710.48,E-wallet,20/02/2024,16:24:00,Tuesday,35.52,674.96,8
+INV-0379,B,Los Angeles,Normal,Female,Home Appliances,20.87,7,146.09,Credit Card,10/01/2024,21:22:00,Wednesday,7.3,138.79,1
+INV-0380,A,New York,Member,Female,Personal Care,95.28,2,190.56,Cash,16/03/2024,16:08:00,Saturday,9.53,181.03,1
+INV-0381,C,Chicago,Normal,Male,Personal Care,45.82,6,274.92,Cash,13/03/2024,10:37:00,Wednesday,13.75,261.17,2
+INV-0382,B,Los Angeles,Member,Female,Clothing,21.49,8,171.92,E-wallet,29/01/2024,20:46:00,Monday,8.6,163.32,6
+INV-0383,B,Los Angeles,Member,Female,Beverages,7.04,5,35.2,Cash,18/01/2024,11:55:00,Thursday,1.76,33.44,8
+INV-0384,C,Chicago,Member,Male,Snacks,85.94,2,171.88,E-wallet,26/01/2024,14:49:00,Friday,8.59,163.29,2
+INV-0385,A,New York,Normal,Male,Electronics,50.95,4,203.8,Cash,07/02/2024,09:46:00,Wednesday,10.19,193.61,2
+INV-0386,A,New York,Normal,Female,Personal Care,93.23,7,652.61,Credit Card,31/01/2024,14:12:00,Wednesday,32.63,619.98,5
+INV-0387,A,New York,Normal,Male,Clothing,76.52,1,76.52,Credit Card,31/01/2024,11:51:00,Wednesday,3.83,72.69,9
+INV-0388,C,Chicago,Normal,Female,Home Appliances,88.28,7,617.96,E-wallet,01/03/2024,17:47:00,Friday,30.9,587.06,5
+INV-0389,B,Los Angeles,Normal,Female,Snacks,27.72,9,249.48,Cash,21/01/2024,17:18:00,Sunday,12.47,237.01,2
+INV-0390,A,New York,Member,Female,Electronics,69.18,1,69.18,Credit Card,09/02/2024,17:39:00,Friday,3.46,65.72,6
+INV-0391,A,New York,Normal,Female,Electronics,81.09,10,810.9,E-wallet,30/01/2024,19:12:00,Tuesday,40.55,770.35,2
+INV-0392,C,Chicago,Member,Female,Personal Care,23.38,10,233.8,Cash,18/01/2024,21:44:00,Thursday,11.69,222.11,3
+INV-0393,A,New York,Normal,Male,Beverages,31.68,5,158.4,Credit Card,09/03/2024,12:45:00,Saturday,7.92,150.48,4
+INV-0394,B,Los Angeles,Normal,Male,Snacks,5.57,9,50.13,E-wallet,15/03/2024,15:47:00,Friday,2.51,47.62,2
+INV-0395,A,New York,Member,Female,Beverages,65.61,4,262.44,E-wallet,09/03/2024,14:34:00,Saturday,13.12,249.32,10
+INV-0396,C,Chicago,Normal,Male,Home Appliances,32.05,5,160.25,Credit Card,17/01/2024,08:03:00,Wednesday,8.01,152.24,8
+INV-0397,B,Los Angeles,Member,Male,Home Appliances,65.48,2,130.96,Cash,24/02/2024,14:55:00,Saturday,6.55,124.41,7
+INV-0398,B,Los Angeles,Member,Male,Snacks,23.82,2,47.64,E-wallet,16/01/2024,14:15:00,Tuesday,2.38,45.26,9
+INV-0399,C,Chicago,Member,Male,Clothing,49.17,1,49.17,Cash,08/02/2024,20:00:00,Thursday,2.46,46.71,10
+INV-0400,A,New York,Normal,Female,Snacks,98.33,1,98.33,Cash,02/03/2024,09:14:00,Saturday,4.92,93.41,1
+INV-0401,C,Chicago,Member,Male,Snacks,13.16,8,105.28,E-wallet,02/02/2024,18:54:00,Friday,5.26,100.02,1
+INV-0402,B,Los Angeles,Member,Male,Clothing,69.63,4,278.52,Cash,25/02/2024,12:25:00,Sunday,13.93,264.59,8
+INV-0403,A,New York,Normal,Male,Personal Care,47.95,1,47.95,Credit Card,26/03/2024,11:12:00,Tuesday,2.4,45.55,8
+INV-0404,C,Chicago,Normal,Female,Clothing,95.15,9,856.35,Credit Card,10/02/2024,08:44:00,Saturday,42.82,813.53,9
+INV-0405,A,New York,Member,Female,Beverages,88.31,9,794.79,Credit Card,03/02/2024,17:30:00,Saturday,39.74,755.05,6
+INV-0406,C,Chicago,Member,Male,Personal Care,30.49,10,304.9,Cash,02/02/2024,15:57:00,Friday,15.24,289.66,10
+INV-0407,C,Chicago,Normal,Male,Beverages,86.17,7,603.19,E-wallet,10/02/2024,17:27:00,Saturday,30.16,573.03,7
+INV-0408,A,New York,Normal,Male,Personal Care,72.2,7,505.4,E-wallet,08/01/2024,08:08:00,Monday,25.27,480.13,7
+INV-0409,A,New York,Normal,Female,Clothing,55.21,10,552.1,Cash,26/01/2024,17:29:00,Friday,27.61,524.49,1
+INV-0410,A,New York,Member,Male,Clothing,20.27,7,141.89,Cash,18/01/2024,08:18:00,Thursday,7.09,134.8,5
+INV-0411,B,Los Angeles,Member,Male,Electronics,17.99,4,71.96,Cash,13/01/2024,16:48:00,Saturday,3.6,68.36,4
+INV-0412,A,New York,Member,Female,Snacks,58.69,7,410.83,Cash,09/01/2024,12:30:00,Tuesday,20.54,390.29,5
+INV-0413,A,New York,Normal,Male,Beverages,60.1,9,540.9,Credit Card,06/02/2024,11:18:00,Tuesday,27.05,513.85,9
+INV-0414,C,Chicago,Normal,Female,Personal Care,29.59,3,88.77,Cash,26/03/2024,10:05:00,Tuesday,4.44,84.33,10
+INV-0415,C,Chicago,Member,Male,Snacks,11.03,4,44.12,Credit Card,20/01/2024,17:04:00,Saturday,2.21,41.91,3
+INV-0416,B,Los Angeles,Member,Male,Home Appliances,20.04,2,40.08,Cash,13/01/2024,17:52:00,Saturday,2,38.08,1
+INV-0417,B,Los Angeles,Member,Male,Snacks,37.31,3,111.93,E-wallet,22/01/2024,11:36:00,Monday,5.6,106.33,7
+INV-0418,B,Los Angeles,Member,Male,Snacks,26.34,9,237.06,Credit Card,11/01/2024,19:44:00,Thursday,11.85,225.21,9
+INV-0419,A,New York,Normal,Male,Clothing,78.62,4,314.48,Credit Card,03/02/2024,17:03:00,Saturday,15.72,298.76,8
+INV-0420,C,Chicago,Normal,Male,Clothing,70.34,4,281.36,Cash,14/03/2024,13:37:00,Thursday,14.07,267.29,3
+INV-0421,B,Los Angeles,Member,Female,Electronics,82.21,3,246.63,Credit Card,28/01/2024,19:37:00,Sunday,12.33,234.3,9
+INV-0422,A,New York,Normal,Male,Beverages,30.68,4,122.72,Cash,11/02/2024,11:05:00,Sunday,6.14,116.58,2
+INV-0423,B,Los Angeles,Member,Female,Personal Care,56.45,8,451.6,Cash,10/03/2024,12:21:00,Sunday,22.58,429.02,10
+INV-0424,B,Los Angeles,Member,Female,Snacks,44.39,6,266.34,Credit Card,16/02/2024,10:02:00,Friday,13.32,253.02,8
+INV-0425,A,New York,Member,Female,Beverages,61.29,8,490.32,Cash,24/01/2024,20:18:00,Wednesday,24.52,465.8,6
+INV-0426,A,New York,Member,Male,Home Appliances,17.82,3,53.46,Credit Card,11/02/2024,08:47:00,Sunday,2.67,50.79,4
+INV-0427,A,New York,Normal,Male,Personal Care,12.95,8,103.6,E-wallet,09/03/2024,09:11:00,Saturday,5.18,98.42,5
+INV-0428,B,Los Angeles,Member,Female,Clothing,15.33,9,137.97,Cash,30/01/2024,17:30:00,Tuesday,6.9,131.07,3
+INV-0429,C,Chicago,Member,Female,Electronics,23.29,6,139.74,E-wallet,12/03/2024,15:29:00,Tuesday,6.99,132.75,1
+INV-0430,C,Chicago,Normal,Female,Beverages,57.9,2,115.8,Credit Card,06/03/2024,08:53:00,Wednesday,5.79,110.01,10
+INV-0431,A,New York,Member,Female,Personal Care,47.63,7,333.41,E-wallet,11/03/2024,16:18:00,Monday,16.67,316.74,7
+INV-0432,C,Chicago,Member,Male,Electronics,11.64,3,34.92,Credit Card,31/01/2024,18:42:00,Wednesday,1.75,33.17,9
+INV-0433,B,Los Angeles,Member,Male,Beverages,83.74,10,837.4,Cash,02/03/2024,14:06:00,Saturday,41.87,795.53,9
+INV-0434,B,Los Angeles,Member,Male,Personal Care,22.32,6,133.92,Cash,23/01/2024,12:13:00,Tuesday,6.7,127.22,8
+INV-0435,C,Chicago,Normal,Female,Electronics,18.42,8,147.36,Cash,25/03/2024,21:14:00,Monday,7.37,139.99,6
+INV-0436,C,Chicago,Member,Female,Home Appliances,47.24,3,141.72,Credit Card,14/01/2024,21:32:00,Sunday,7.09,134.63,9
+INV-0437,B,Los Angeles,Member,Male,Electronics,21.62,1,21.62,Cash,29/02/2024,10:51:00,Thursday,1.08,20.54,1
+INV-0438,B,Los Angeles,Normal,Male,Beverages,99.5,6,597,Credit Card,29/01/2024,10:14:00,Monday,29.85,567.15,10
+INV-0439,B,Los Angeles,Member,Male,Beverages,59.89,8,479.12,E-wallet,13/01/2024,17:22:00,Saturday,23.96,455.16,5
+INV-0440,C,Chicago,Normal,Female,Electronics,16.35,3,49.05,Cash,03/03/2024,17:47:00,Sunday,2.45,46.6,10
+INV-0441,A,New York,Member,Male,Electronics,53.84,1,53.84,Credit Card,18/01/2024,15:12:00,Thursday,2.69,51.15,7
+INV-0442,B,Los Angeles,Normal,Male,Personal Care,99.55,1,99.55,E-wallet,16/03/2024,13:27:00,Saturday,4.98,94.57,8
+INV-0443,B,Los Angeles,Member,Male,Personal Care,78.09,8,624.72,Credit Card,01/03/2024,18:41:00,Friday,31.24,593.48,4
+INV-0444,A,New York,Member,Male,Electronics,89.49,3,268.47,Cash,07/03/2024,20:01:00,Thursday,13.42,255.05,7
+INV-0445,B,Los Angeles,Normal,Male,Snacks,35.92,1,35.92,Cash,07/03/2024,09:18:00,Thursday,1.8,34.12,7
+INV-0446,C,Chicago,Normal,Male,Beverages,81.39,3,244.17,E-wallet,26/03/2024,09:28:00,Tuesday,12.21,231.96,10
+INV-0447,C,Chicago,Normal,Male,Electronics,91.99,4,367.96,E-wallet,31/01/2024,09:00:00,Wednesday,18.4,349.56,8
+INV-0448,C,Chicago,Member,Female,Electronics,27.09,6,162.54,E-wallet,23/02/2024,21:27:00,Friday,8.13,154.41,6
+INV-0449,A,New York,Normal,Female,Beverages,22.63,5,113.15,Credit Card,19/02/2024,20:52:00,Monday,5.66,107.49,10
+INV-0450,C,Chicago,Normal,Male,Snacks,58.1,7,406.7,Credit Card,27/01/2024,12:49:00,Saturday,20.34,386.36,7
+INV-0451,C,Chicago,Member,Male,Snacks,18.95,4,75.8,Credit Card,28/01/2024,16:15:00,Sunday,3.79,72.01,8
+INV-0452,A,New York,Normal,Female,Clothing,11.59,6,69.54,Credit Card,30/03/2024,12:46:00,Saturday,3.48,66.06,8
+INV-0453,C,Chicago,Normal,Female,Snacks,65.71,5,328.55,Cash,09/02/2024,10:26:00,Friday,16.43,312.12,8
+INV-0454,A,New York,Normal,Female,Snacks,99.19,7,694.33,E-wallet,20/01/2024,09:23:00,Saturday,34.72,659.61,6
+INV-0455,A,New York,Normal,Female,Home Appliances,19.92,1,19.92,Credit Card,21/03/2024,16:45:00,Thursday,1,18.92,5
+INV-0456,C,Chicago,Normal,Female,Snacks,39.53,5,197.65,Credit Card,10/01/2024,08:48:00,Wednesday,9.88,187.77,1
+INV-0457,A,New York,Member,Male,Snacks,77.32,9,695.88,Credit Card,09/01/2024,12:42:00,Tuesday,34.79,661.09,10
+INV-0458,B,Los Angeles,Member,Male,Electronics,13.52,6,81.12,Cash,02/02/2024,19:59:00,Friday,4.06,77.06,7
+INV-0459,A,New York,Member,Female,Electronics,64.36,1,64.36,Cash,05/02/2024,08:32:00,Monday,3.22,61.14,4
+INV-0460,A,New York,Member,Male,Personal Care,18.85,5,94.25,E-wallet,23/03/2024,08:34:00,Saturday,4.71,89.54,10
+INV-0461,A,New York,Normal,Female,Electronics,5.61,2,11.22,Credit Card,16/03/2024,18:45:00,Saturday,0.56,10.66,10
+INV-0462,A,New York,Normal,Female,Home Appliances,15.21,7,106.47,Cash,12/02/2024,12:01:00,Monday,5.32,101.15,10
+INV-0463,B,Los Angeles,Normal,Male,Personal Care,38.31,10,383.1,E-wallet,12/03/2024,12:01:00,Tuesday,19.16,363.94,2
+INV-0464,A,New York,Member,Male,Home Appliances,67.85,2,135.7,E-wallet,15/02/2024,14:23:00,Thursday,6.79,128.91,3
+INV-0465,A,New York,Member,Male,Personal Care,75.18,9,676.62,Cash,22/01/2024,14:43:00,Monday,33.83,642.79,9
+INV-0466,B,Los Angeles,Member,Female,Snacks,23.17,10,231.7,E-wallet,10/03/2024,08:41:00,Sunday,11.59,220.11,4
+INV-0467,B,Los Angeles,Normal,Male,Electronics,52.26,5,261.3,Cash,14/01/2024,16:07:00,Sunday,13.07,248.23,8
+INV-0468,C,Chicago,Normal,Male,Home Appliances,99.59,7,697.13,Credit Card,22/03/2024,17:14:00,Friday,34.86,662.27,10
+INV-0469,B,Los Angeles,Normal,Female,Snacks,11.04,7,77.28,Cash,13/01/2024,10:31:00,Saturday,3.86,73.42,6
+INV-0470,B,Los Angeles,Member,Male,Snacks,64.15,9,577.35,Cash,03/02/2024,17:00:00,Saturday,28.87,548.48,1
+INV-0471,A,New York,Normal,Female,Clothing,43.33,4,173.32,Credit Card,10/01/2024,11:47:00,Wednesday,8.67,164.65,10
+INV-0472,A,New York,Normal,Female,Home Appliances,95.02,10,950.2,Cash,17/02/2024,20:06:00,Saturday,47.51,902.69,9
+INV-0473,A,New York,Normal,Female,Home Appliances,83.48,3,250.44,E-wallet,03/02/2024,15:40:00,Saturday,12.52,237.92,3
+INV-0474,C,Chicago,Normal,Male,Home Appliances,84.13,4,336.52,E-wallet,04/01/2024,13:19:00,Thursday,16.83,319.69,5
+INV-0475,C,Chicago,Member,Male,Snacks,39.91,5,199.55,E-wallet,10/03/2024,15:01:00,Sunday,9.98,189.57,9
+INV-0476,A,New York,Normal,Female,Electronics,25.19,6,151.14,Credit Card,19/01/2024,15:23:00,Friday,7.56,143.58,2
+INV-0477,C,Chicago,Normal,Male,Beverages,59.31,5,296.55,E-wallet,02/02/2024,10:22:00,Friday,14.83,281.72,9
+INV-0478,A,New York,Member,Male,Clothing,98.42,5,492.1,Cash,24/01/2024,11:57:00,Wednesday,24.61,467.49,7
+INV-0479,A,New York,Normal,Male,Electronics,84.1,9,756.9,Cash,30/01/2024,18:21:00,Tuesday,37.84,719.06,10
+INV-0480,C,Chicago,Member,Male,Electronics,99.25,3,297.75,Credit Card,07/03/2024,16:25:00,Thursday,14.89,282.86,4
+INV-0481,B,Los Angeles,Member,Female,Snacks,64.05,8,512.4,E-wallet,20/03/2024,19:12:00,Wednesday,25.62,486.78,6
+INV-0482,A,New York,Member,Male,Home Appliances,26.9,3,80.7,Cash,23/03/2024,20:03:00,Saturday,4.04,76.66,5
+INV-0483,A,New York,Normal,Male,Personal Care,32.73,2,65.46,Cash,21/02/2024,11:30:00,Wednesday,3.27,62.19,3
+INV-0484,C,Chicago,Member,Male,Home Appliances,55.21,1,55.21,Credit Card,13/02/2024,18:26:00,Tuesday,2.76,52.45,7
+INV-0485,A,New York,Member,Male,Clothing,34.08,8,272.64,Credit Card,18/03/2024,20:38:00,Monday,13.63,259.01,6
+INV-0486,A,New York,Normal,Male,Personal Care,16.39,8,131.12,E-wallet,01/02/2024,10:39:00,Thursday,6.56,124.56,8
+INV-0487,C,Chicago,Member,Male,Electronics,30.1,9,270.9,E-wallet,10/03/2024,10:58:00,Sunday,13.54,257.36,1
+INV-0488,A,New York,Normal,Male,Personal Care,17,2,34,Credit Card,15/01/2024,18:51:00,Monday,1.7,32.3,2
+INV-0489,B,Los Angeles,Member,Male,Personal Care,97.4,9,876.6,Cash,08/02/2024,11:10:00,Thursday,43.83,832.77,3
+INV-0490,A,New York,Normal,Female,Home Appliances,72.48,9,652.32,E-wallet,22/01/2024,19:48:00,Monday,32.62,619.7,6
+INV-0491,A,New York,Normal,Male,Snacks,64.43,6,386.58,Cash,28/03/2024,14:50:00,Thursday,19.33,367.25,2
+INV-0492,A,New York,Normal,Male,Clothing,76.15,4,304.6,E-wallet,19/03/2024,15:19:00,Tuesday,15.23,289.37,6
+INV-0493,A,New York,Member,Male,Home Appliances,49.84,8,398.72,Credit Card,22/01/2024,15:16:00,Monday,19.94,378.78,7
+INV-0494,A,New York,Member,Male,Home Appliances,77.11,5,385.55,Cash,24/03/2024,08:18:00,Sunday,19.28,366.27,3
+INV-0495,B,Los Angeles,Normal,Female,Home Appliances,76.59,7,536.13,Cash,13/03/2024,18:45:00,Wednesday,26.81,509.32,4
+INV-0496,A,New York,Normal,Male,Beverages,63.45,5,317.25,Cash,14/01/2024,17:54:00,Sunday,15.86,301.39,6
+INV-0497,B,Los Angeles,Normal,Male,Clothing,40.25,5,201.25,Credit Card,04/02/2024,10:15:00,Sunday,10.06,191.19,10
+INV-0498,C,Chicago,Normal,Female,Snacks,85.56,2,171.12,Credit Card,23/01/2024,16:11:00,Tuesday,8.56,162.56,10
+INV-0499,A,New York,Member,Male,Electronics,97.53,9,877.77,Cash,11/03/2024,15:37:00,Monday,43.89,833.88,9
+INV-0500,A,New York,Normal,Male,Beverages,61.43,9,552.87,Credit Card,09/03/2024,11:11:00,Saturday,27.64,525.23,1
+INV-0501,A,New York,Member,Male,Personal Care,72.53,4,290.12,E-wallet,02/03/2024,17:05:00,Saturday,14.51,275.61,10
+INV-0502,C,Chicago,Member,Female,Snacks,34.82,10,348.2,Cash,30/01/2024,17:07:00,Tuesday,17.41,330.79,7
+INV-0503,C,Chicago,Member,Male,Personal Care,69.45,10,694.5,Cash,27/02/2024,12:08:00,Tuesday,34.73,659.77,8
+INV-0504,A,New York,Normal,Male,Clothing,33.15,7,232.05,E-wallet,27/01/2024,18:30:00,Saturday,11.6,220.45,5
+INV-0505,C,Chicago,Normal,Female,Clothing,68.47,9,616.23,Credit Card,11/01/2024,21:57:00,Thursday,30.81,585.42,10
+INV-0506,C,Chicago,Normal,Male,Electronics,45.22,6,271.32,Credit Card,01/02/2024,09:14:00,Thursday,13.57,257.75,9
+INV-0507,C,Chicago,Member,Female,Beverages,78.37,6,470.22,Cash,16/03/2024,11:31:00,Saturday,23.51,446.71,8
+INV-0508,C,Chicago,Normal,Female,Electronics,51.94,1,51.94,E-wallet,05/01/2024,11:07:00,Friday,2.6,49.34,2
+INV-0509,C,Chicago,Member,Male,Electronics,91.96,3,275.88,Credit Card,18/01/2024,09:18:00,Thursday,13.79,262.09,2
+INV-0510,A,New York,Member,Female,Snacks,51.96,8,415.68,E-wallet,22/01/2024,16:07:00,Monday,20.78,394.9,5
+INV-0511,A,New York,Member,Male,Personal Care,81.53,6,489.18,Cash,04/02/2024,12:05:00,Sunday,24.46,464.72,8
+INV-0512,A,New York,Normal,Male,Personal Care,78.86,7,552.02,Credit Card,25/02/2024,08:15:00,Sunday,27.6,524.42,6
+INV-0513,C,Chicago,Member,Male,Clothing,52.11,1,52.11,Credit Card,19/01/2024,08:59:00,Friday,2.61,49.5,6
+INV-0514,C,Chicago,Normal,Male,Electronics,92.74,4,370.96,Cash,04/02/2024,19:31:00,Sunday,18.55,352.41,6
+INV-0515,B,Los Angeles,Normal,Female,Personal Care,55.58,7,389.06,Credit Card,23/02/2024,13:05:00,Friday,19.45,369.61,7
+INV-0516,C,Chicago,Member,Male,Clothing,19.6,1,19.6,Cash,07/02/2024,14:32:00,Wednesday,0.98,18.62,5
+INV-0517,A,New York,Normal,Female,Beverages,15.63,7,109.41,E-wallet,29/01/2024,12:23:00,Monday,5.47,103.94,5
+INV-0518,C,Chicago,Member,Male,Beverages,47.04,3,141.12,Cash,01/03/2024,08:06:00,Friday,7.06,134.06,4
+INV-0519,A,New York,Member,Male,Home Appliances,94.09,5,470.45,Credit Card,21/01/2024,20:23:00,Sunday,23.52,446.93,4
+INV-0520,A,New York,Member,Female,Beverages,38.02,9,342.18,Cash,15/01/2024,19:41:00,Monday,17.11,325.07,3
+INV-0521,A,New York,Member,Female,Home Appliances,9.42,6,56.52,Credit Card,05/02/2024,16:27:00,Monday,2.83,53.69,2
+INV-0522,A,New York,Normal,Male,Electronics,71.2,3,213.6,Credit Card,16/01/2024,10:33:00,Tuesday,10.68,202.92,10
+INV-0523,C,Chicago,Normal,Male,Clothing,29.74,4,118.96,Cash,03/01/2024,21:09:00,Wednesday,5.95,113.01,5
+INV-0524,B,Los Angeles,Member,Female,Home Appliances,62.64,5,313.2,E-wallet,16/01/2024,14:13:00,Tuesday,15.66,297.54,10
+INV-0525,B,Los Angeles,Normal,Male,Home Appliances,60.62,4,242.48,E-wallet,18/03/2024,13:39:00,Monday,12.12,230.36,6
+INV-0526,B,Los Angeles,Member,Male,Home Appliances,14.86,9,133.74,Cash,25/03/2024,17:11:00,Monday,6.69,127.05,7
+INV-0527,A,New York,Normal,Female,Beverages,86.63,2,173.26,Credit Card,23/01/2024,12:15:00,Tuesday,8.66,164.6,5
+INV-0528,C,Chicago,Normal,Female,Personal Care,97.53,5,487.65,Cash,20/02/2024,16:27:00,Tuesday,24.38,463.27,10
+INV-0529,B,Los Angeles,Normal,Male,Home Appliances,57.44,7,402.08,Cash,28/01/2024,21:27:00,Sunday,20.1,381.98,1
+INV-0530,B,Los Angeles,Member,Female,Personal Care,53.69,7,375.83,E-wallet,29/01/2024,18:07:00,Monday,18.79,357.04,7
+INV-0531,C,Chicago,Normal,Male,Home Appliances,27.73,7,194.11,E-wallet,13/02/2024,10:31:00,Tuesday,9.71,184.4,1
+INV-0532,C,Chicago,Normal,Male,Snacks,85.75,3,257.25,Cash,22/01/2024,19:16:00,Monday,12.86,244.39,9
+INV-0533,B,Los Angeles,Member,Female,Beverages,62.68,7,438.76,Credit Card,16/01/2024,19:29:00,Tuesday,21.94,416.82,1
+INV-0534,A,New York,Normal,Female,Home Appliances,31.84,3,95.52,Cash,19/03/2024,12:25:00,Tuesday,4.78,90.74,2
+INV-0535,B,Los Angeles,Member,Female,Snacks,56.13,5,280.65,E-wallet,08/03/2024,21:45:00,Friday,14.03,266.62,6
+INV-0536,B,Los Angeles,Member,Female,Beverages,20.11,6,120.66,Credit Card,04/03/2024,11:20:00,Monday,6.03,114.63,2
+INV-0537,C,Chicago,Member,Female,Personal Care,81.29,6,487.74,E-wallet,21/02/2024,12:36:00,Wednesday,24.39,463.35,10
+INV-0538,B,Los Angeles,Member,Female,Electronics,24.09,2,48.18,E-wallet,07/02/2024,18:00:00,Wednesday,2.41,45.77,2
+INV-0539,C,Chicago,Member,Female,Personal Care,28.04,9,252.36,E-wallet,28/03/2024,17:14:00,Thursday,12.62,239.74,6
+INV-0540,A,New York,Normal,Male,Home Appliances,36.25,3,108.75,E-wallet,01/03/2024,14:07:00,Friday,5.44,103.31,7
+INV-0541,A,New York,Member,Female,Electronics,80.46,9,724.14,Cash,15/01/2024,09:35:00,Monday,36.21,687.93,8
+INV-0542,A,New York,Normal,Male,Home Appliances,68.87,10,688.7,E-wallet,06/01/2024,11:21:00,Saturday,34.44,654.26,1
+INV-0543,A,New York,Normal,Female,Snacks,86.65,3,259.95,Cash,20/01/2024,14:58:00,Saturday,13,246.95,2
+INV-0544,C,Chicago,Member,Male,Beverages,39.29,2,78.58,Credit Card,22/01/2024,16:09:00,Monday,3.93,74.65,5
+INV-0545,B,Los Angeles,Normal,Male,Personal Care,8.11,4,32.44,E-wallet,13/02/2024,16:17:00,Tuesday,1.62,30.82,1
+INV-0546,A,New York,Member,Female,Home Appliances,31.1,10,311,Cash,15/01/2024,19:23:00,Monday,15.55,295.45,4
+INV-0547,A,New York,Member,Male,Beverages,75.82,9,682.38,Cash,02/03/2024,19:42:00,Saturday,34.12,648.26,3
+INV-0548,C,Chicago,Member,Female,Snacks,57.8,7,404.6,E-wallet,04/02/2024,16:33:00,Sunday,20.23,384.37,3
+INV-0549,A,New York,Normal,Female,Beverages,30.52,3,91.56,E-wallet,23/01/2024,18:27:00,Tuesday,4.58,86.98,3
+INV-0550,C,Chicago,Normal,Male,Snacks,71.04,8,568.32,Credit Card,15/02/2024,16:26:00,Thursday,28.42,539.9,8
+INV-0551,B,Los Angeles,Normal,Female,Snacks,57.9,3,173.7,Cash,02/03/2024,19:08:00,Saturday,8.69,165.01,5
+INV-0552,A,New York,Member,Female,Personal Care,23.59,8,188.72,E-wallet,12/01/2024,09:42:00,Friday,9.44,179.28,5
+INV-0553,B,Los Angeles,Normal,Female,Beverages,93.44,5,467.2,E-wallet,24/02/2024,20:53:00,Saturday,23.36,443.84,9
+INV-0554,B,Los Angeles,Member,Female,Snacks,61.89,9,557.01,Credit Card,18/01/2024,12:36:00,Thursday,27.85,529.16,4
+INV-0555,B,Los Angeles,Member,Female,Beverages,60.57,8,484.56,Cash,07/02/2024,16:09:00,Wednesday,24.23,460.33,2
+INV-0556,A,New York,Member,Female,Electronics,36.2,10,362,E-wallet,15/03/2024,14:12:00,Friday,18.1,343.9,1
+INV-0557,A,New York,Normal,Male,Beverages,90.31,6,541.86,Credit Card,31/01/2024,18:09:00,Wednesday,27.09,514.77,3
+INV-0558,C,Chicago,Normal,Female,Snacks,96.78,4,387.12,Credit Card,11/02/2024,17:58:00,Sunday,19.36,367.76,7
+INV-0559,B,Los Angeles,Normal,Female,Snacks,16.77,3,50.31,Credit Card,01/02/2024,09:10:00,Thursday,2.52,47.79,3
+INV-0560,A,New York,Normal,Male,Snacks,30.6,2,61.2,Cash,19/01/2024,13:06:00,Friday,3.06,58.14,2
+INV-0561,C,Chicago,Member,Female,Snacks,93.12,9,838.08,E-wallet,02/03/2024,15:01:00,Saturday,41.9,796.18,3
+INV-0562,B,Los Angeles,Member,Female,Snacks,31.99,10,319.9,Cash,23/02/2024,19:18:00,Friday,15.99,303.91,2
+INV-0563,A,New York,Member,Male,Personal Care,53.62,2,107.24,Cash,22/02/2024,17:45:00,Thursday,5.36,101.88,10
+INV-0564,B,Los Angeles,Normal,Male,Electronics,17.25,10,172.5,E-wallet,15/02/2024,14:27:00,Thursday,8.62,163.88,5
+INV-0565,A,New York,Member,Female,Electronics,41.61,4,166.44,E-wallet,04/01/2024,16:47:00,Thursday,8.32,158.12,6
+INV-0566,B,Los Angeles,Normal,Female,Clothing,41.52,4,166.08,Cash,19/02/2024,14:31:00,Monday,8.3,157.78,8
+INV-0567,C,Chicago,Member,Female,Electronics,53.55,4,214.2,Credit Card,29/03/2024,18:53:00,Friday,10.71,203.49,7
+INV-0568,C,Chicago,Normal,Female,Personal Care,91.34,8,730.72,E-wallet,11/01/2024,12:58:00,Thursday,36.54,694.18,7
+INV-0569,B,Los Angeles,Normal,Male,Clothing,87.22,2,174.44,Cash,27/02/2024,14:19:00,Tuesday,8.72,165.72,7
+INV-0570,C,Chicago,Normal,Male,Home Appliances,81.52,6,489.12,Cash,24/03/2024,19:59:00,Sunday,24.46,464.66,4
+INV-0571,C,Chicago,Normal,Female,Clothing,99.79,6,598.74,Cash,26/01/2024,14:32:00,Friday,29.94,568.8,4
+INV-0572,A,New York,Normal,Female,Home Appliances,72.3,10,723,Credit Card,17/01/2024,12:09:00,Wednesday,36.15,686.85,7
+INV-0573,A,New York,Normal,Female,Beverages,31.35,5,156.75,E-wallet,10/02/2024,20:17:00,Saturday,7.84,148.91,3
+INV-0574,C,Chicago,Member,Male,Clothing,71.88,9,646.92,E-wallet,24/01/2024,08:19:00,Wednesday,32.35,614.57,8
+INV-0575,C,Chicago,Normal,Female,Snacks,80.9,3,242.7,Credit Card,10/03/2024,14:25:00,Sunday,12.13,230.57,6
+INV-0576,A,New York,Normal,Female,Personal Care,68.6,1,68.6,Credit Card,08/03/2024,15:19:00,Friday,3.43,65.17,5
+INV-0577,C,Chicago,Normal,Female,Personal Care,96.68,10,966.8,E-wallet,24/01/2024,19:48:00,Wednesday,48.34,918.46,8
+INV-0578,B,Los Angeles,Normal,Female,Beverages,70.28,8,562.24,E-wallet,07/02/2024,14:53:00,Wednesday,28.11,534.13,3
+INV-0579,A,New York,Normal,Male,Clothing,97.37,8,778.96,Cash,11/01/2024,19:23:00,Thursday,38.95,740.01,10
+INV-0580,B,Los Angeles,Normal,Female,Personal Care,70.01,10,700.1,E-wallet,05/03/2024,11:52:00,Tuesday,35.01,665.09,7
+INV-0581,C,Chicago,Member,Male,Clothing,43.4,6,260.4,E-wallet,07/03/2024,21:50:00,Thursday,13.02,247.38,10
+INV-0582,C,Chicago,Member,Male,Snacks,13.52,7,94.64,Cash,28/02/2024,13:58:00,Wednesday,4.73,89.91,1
+INV-0583,C,Chicago,Member,Female,Personal Care,34.4,2,68.8,Cash,01/02/2024,17:28:00,Thursday,3.44,65.36,2
+INV-0584,A,New York,Normal,Male,Personal Care,36.12,10,361.2,E-wallet,22/03/2024,19:36:00,Friday,18.06,343.14,10
+INV-0585,A,New York,Member,Female,Clothing,88.67,8,709.36,E-wallet,15/02/2024,19:32:00,Thursday,35.47,673.89,1
+INV-0586,C,Chicago,Member,Female,Personal Care,11.51,4,46.04,Credit Card,08/01/2024,20:02:00,Monday,2.3,43.74,6
+INV-0587,A,New York,Member,Male,Home Appliances,85.77,5,428.85,E-wallet,16/03/2024,08:55:00,Saturday,21.44,407.41,4
+INV-0588,B,Los Angeles,Normal,Male,Beverages,10.52,5,52.6,E-wallet,07/03/2024,12:11:00,Thursday,2.63,49.97,2
+INV-0589,B,Los Angeles,Normal,Female,Clothing,88.09,2,176.18,Cash,12/01/2024,16:21:00,Friday,8.81,167.37,7
+INV-0590,C,Chicago,Normal,Male,Beverages,8.49,8,67.92,Credit Card,25/01/2024,08:45:00,Thursday,3.4,64.52,1
+INV-0591,C,Chicago,Member,Female,Snacks,60.23,10,602.3,Credit Card,22/02/2024,16:20:00,Thursday,30.11,572.19,5
+INV-0592,C,Chicago,Normal,Female,Home Appliances,21.59,9,194.31,E-wallet,24/03/2024,11:12:00,Sunday,9.72,184.59,4
+INV-0593,A,New York,Member,Male,Beverages,99.27,5,496.35,Credit Card,27/03/2024,12:45:00,Wednesday,24.82,471.53,2
+INV-0594,A,New York,Member,Male,Clothing,68.62,5,343.1,Cash,28/03/2024,15:18:00,Thursday,17.16,325.94,3
+INV-0595,B,Los Angeles,Member,Female,Snacks,50.67,3,152.01,E-wallet,19/03/2024,17:12:00,Tuesday,7.6,144.41,2
+INV-0596,B,Los Angeles,Normal,Male,Home Appliances,33.11,10,331.1,Cash,20/01/2024,21:56:00,Saturday,16.56,314.54,6
+INV-0597,B,Los Angeles,Member,Female,Personal Care,60.84,2,121.68,Cash,31/01/2024,13:19:00,Wednesday,6.08,115.6,4
+INV-0598,B,Los Angeles,Member,Female,Electronics,25.05,10,250.5,Credit Card,27/02/2024,19:07:00,Tuesday,12.53,237.97,1
+INV-0599,C,Chicago,Normal,Male,Home Appliances,95.48,6,572.88,Credit Card,18/01/2024,17:16:00,Thursday,28.64,544.24,10
+INV-0600,B,Los Angeles,Member,Male,Home Appliances,24.01,9,216.09,Cash,03/02/2024,14:49:00,Saturday,10.8,205.29,7
+INV-0601,B,Los Angeles,Member,Female,Snacks,6.01,10,60.1,Cash,30/03/2024,11:36:00,Saturday,3.01,57.09,5
+INV-0602,B,Los Angeles,Normal,Male,Snacks,11.9,3,35.7,Credit Card,26/03/2024,16:04:00,Tuesday,1.79,33.91,1
+INV-0603,B,Los Angeles,Member,Male,Personal Care,27.03,1,27.03,Cash,21/03/2024,09:44:00,Thursday,1.35,25.68,6
+INV-0604,C,Chicago,Member,Male,Home Appliances,82.54,2,165.08,Credit Card,15/02/2024,19:39:00,Thursday,8.25,156.83,5
+INV-0605,C,Chicago,Normal,Female,Personal Care,99.56,8,796.48,E-wallet,27/01/2024,18:55:00,Saturday,39.82,756.66,5
+INV-0606,B,Los Angeles,Member,Male,Clothing,39.92,10,399.2,Cash,09/01/2024,10:55:00,Tuesday,19.96,379.24,10
+INV-0607,B,Los Angeles,Member,Female,Home Appliances,43.13,8,345.04,E-wallet,05/01/2024,10:47:00,Friday,17.25,327.79,9
+INV-0608,A,New York,Normal,Female,Clothing,99.2,4,396.8,Credit Card,14/02/2024,10:01:00,Wednesday,19.84,376.96,5
+INV-0609,B,Los Angeles,Normal,Male,Home Appliances,54.63,8,437.04,E-wallet,06/03/2024,12:52:00,Wednesday,21.85,415.19,2
+INV-0610,B,Los Angeles,Normal,Male,Snacks,57.73,6,346.38,Cash,31/01/2024,13:23:00,Wednesday,17.32,329.06,10
+INV-0611,A,New York,Normal,Female,Snacks,74.35,8,594.8,Cash,01/02/2024,09:38:00,Thursday,29.74,565.06,9
+INV-0612,B,Los Angeles,Member,Male,Electronics,88.81,10,888.1,E-wallet,16/03/2024,08:26:00,Saturday,44.41,843.69,9
+INV-0613,C,Chicago,Normal,Male,Personal Care,42.68,2,85.36,Credit Card,08/01/2024,19:41:00,Monday,4.27,81.09,9
+INV-0614,B,Los Angeles,Normal,Male,Beverages,63.27,7,442.89,Cash,10/02/2024,16:04:00,Saturday,22.14,420.75,5
+INV-0615,C,Chicago,Normal,Female,Snacks,23.54,1,23.54,Cash,10/01/2024,15:05:00,Wednesday,1.18,22.36,7
+INV-0616,B,Los Angeles,Member,Female,Home Appliances,9.52,8,76.16,Cash,30/03/2024,16:21:00,Saturday,3.81,72.35,5
+INV-0617,B,Los Angeles,Member,Male,Personal Care,85.09,4,340.36,Credit Card,12/01/2024,11:38:00,Friday,17.02,323.34,5
+INV-0618,C,Chicago,Member,Male,Electronics,55.05,6,330.3,Credit Card,23/03/2024,18:14:00,Saturday,16.52,313.78,8
+INV-0619,C,Chicago,Normal,Male,Clothing,33.56,10,335.6,Credit Card,10/02/2024,19:03:00,Saturday,16.78,318.82,6
+INV-0620,A,New York,Normal,Female,Beverages,24.25,4,97,Credit Card,07/02/2024,14:34:00,Wednesday,4.85,92.15,4
+INV-0621,B,Los Angeles,Member,Male,Home Appliances,52.22,6,313.32,Credit Card,17/03/2024,19:39:00,Sunday,15.67,297.65,5
+INV-0622,B,Los Angeles,Normal,Female,Snacks,73.73,9,663.57,Credit Card,19/02/2024,18:10:00,Monday,33.18,630.39,9
+INV-0623,B,Los Angeles,Normal,Female,Electronics,70.37,5,351.85,Cash,17/02/2024,08:52:00,Saturday,17.59,334.26,3
+INV-0624,B,Los Angeles,Member,Male,Personal Care,51.4,7,359.8,Cash,04/03/2024,19:49:00,Monday,17.99,341.81,8
+INV-0625,A,New York,Member,Female,Home Appliances,63.2,1,63.2,E-wallet,09/01/2024,21:38:00,Tuesday,3.16,60.04,10
+INV-0626,C,Chicago,Normal,Male,Personal Care,47.82,8,382.56,Cash,07/02/2024,17:20:00,Wednesday,19.13,363.43,5
+INV-0627,B,Los Angeles,Normal,Male,Beverages,96.29,7,674.03,Cash,23/02/2024,21:57:00,Friday,33.7,640.33,3
+INV-0628,A,New York,Normal,Female,Electronics,84,7,588,Credit Card,08/02/2024,21:58:00,Thursday,29.4,558.6,6
+INV-0629,C,Chicago,Normal,Female,Beverages,15.07,5,75.35,Cash,29/03/2024,21:00:00,Friday,3.77,71.58,1
+INV-0630,B,Los Angeles,Member,Female,Electronics,82.37,8,658.96,Cash,27/03/2024,19:00:00,Wednesday,32.95,626.01,3
+INV-0631,C,Chicago,Member,Male,Snacks,66.74,7,467.18,E-wallet,21/03/2024,12:28:00,Thursday,23.36,443.82,10
+INV-0632,B,Los Angeles,Member,Female,Beverages,41.13,5,205.65,Credit Card,17/01/2024,10:08:00,Wednesday,10.28,195.37,1
+INV-0633,C,Chicago,Normal,Male,Electronics,45.84,5,229.2,Cash,27/03/2024,18:44:00,Wednesday,11.46,217.74,9
+INV-0634,B,Los Angeles,Member,Male,Beverages,23.2,2,46.4,E-wallet,12/03/2024,19:46:00,Tuesday,2.32,44.08,7
+INV-0635,B,Los Angeles,Normal,Male,Personal Care,34.54,5,172.7,Cash,31/01/2024,17:42:00,Wednesday,8.63,164.07,3
+INV-0636,C,Chicago,Normal,Female,Home Appliances,29.71,2,59.42,E-wallet,03/01/2024,18:58:00,Wednesday,2.97,56.45,7
+INV-0637,B,Los Angeles,Member,Female,Beverages,55.94,6,335.64,Credit Card,18/01/2024,16:33:00,Thursday,16.78,318.86,6
+INV-0638,C,Chicago,Normal,Male,Beverages,65.24,5,326.2,E-wallet,18/03/2024,08:44:00,Monday,16.31,309.89,8
+INV-0639,C,Chicago,Normal,Male,Clothing,98.9,10,989,Cash,31/01/2024,14:13:00,Wednesday,49.45,939.55,2
+INV-0640,B,Los Angeles,Member,Female,Snacks,93.04,10,930.4,Cash,12/01/2024,21:26:00,Friday,46.52,883.88,8
+INV-0641,C,Chicago,Member,Female,Beverages,21.45,4,85.8,Cash,17/01/2024,21:44:00,Wednesday,4.29,81.51,8
+INV-0642,C,Chicago,Member,Female,Electronics,29.71,4,118.84,E-wallet,11/03/2024,12:37:00,Monday,5.94,112.9,8
+INV-0643,C,Chicago,Normal,Male,Beverages,84.3,2,168.6,Credit Card,10/02/2024,13:14:00,Saturday,8.43,160.17,8
+INV-0644,A,New York,Normal,Female,Beverages,17.77,4,71.08,Credit Card,11/03/2024,15:51:00,Monday,3.55,67.53,2
+INV-0645,A,New York,Normal,Male,Clothing,91.32,8,730.56,Cash,20/01/2024,17:09:00,Saturday,36.53,694.03,5
+INV-0646,C,Chicago,Normal,Male,Clothing,18.76,6,112.56,Cash,27/02/2024,17:14:00,Tuesday,5.63,106.93,3
+INV-0647,B,Los Angeles,Normal,Male,Home Appliances,52.98,5,264.9,E-wallet,01/03/2024,17:45:00,Friday,13.24,251.66,1
+INV-0648,B,Los Angeles,Member,Male,Snacks,55.61,1,55.61,E-wallet,25/01/2024,18:12:00,Thursday,2.78,52.83,3
+INV-0649,A,New York,Member,Male,Electronics,79.78,7,558.46,E-wallet,24/03/2024,19:13:00,Sunday,27.92,530.54,4
+INV-0650,C,Chicago,Member,Female,Beverages,26.28,1,26.28,Credit Card,08/01/2024,18:55:00,Monday,1.31,24.97,8
+INV-0651,B,Los Angeles,Normal,Male,Personal Care,74.25,4,297,Cash,18/03/2024,20:38:00,Monday,14.85,282.15,1
+INV-0652,C,Chicago,Normal,Male,Snacks,6.42,10,64.2,Cash,18/01/2024,21:45:00,Thursday,3.21,60.99,3
+INV-0653,C,Chicago,Member,Female,Beverages,60.81,3,182.43,E-wallet,02/02/2024,10:01:00,Friday,9.12,173.31,10
+INV-0654,C,Chicago,Normal,Female,Snacks,36.71,4,146.84,Cash,25/03/2024,17:27:00,Monday,7.34,139.5,4
+INV-0655,A,New York,Member,Male,Electronics,97.28,5,486.4,Cash,23/01/2024,13:00:00,Tuesday,24.32,462.08,6
+INV-0656,B,Los Angeles,Member,Male,Electronics,35.3,7,247.1,Cash,02/02/2024,13:11:00,Friday,12.36,234.74,10
+INV-0657,C,Chicago,Member,Male,Personal Care,20.13,5,100.65,Cash,25/03/2024,08:07:00,Monday,5.03,95.62,9
+INV-0658,C,Chicago,Member,Female,Snacks,75.31,5,376.55,Credit Card,29/01/2024,11:39:00,Monday,18.83,357.72,1
+INV-0659,B,Los Angeles,Normal,Female,Home Appliances,67.28,3,201.84,E-wallet,24/03/2024,18:01:00,Sunday,10.09,191.75,4
+INV-0660,B,Los Angeles,Member,Male,Snacks,69.2,3,207.6,Credit Card,24/02/2024,09:21:00,Saturday,10.38,197.22,4
+INV-0661,A,New York,Member,Female,Home Appliances,86.61,8,692.88,Cash,09/02/2024,11:15:00,Friday,34.64,658.24,6
+INV-0662,A,New York,Member,Female,Home Appliances,49.09,10,490.9,Cash,29/01/2024,18:49:00,Monday,24.55,466.35,3
+INV-0663,C,Chicago,Member,Male,Snacks,13.23,1,13.23,E-wallet,15/01/2024,16:15:00,Monday,0.66,12.57,1
+INV-0664,C,Chicago,Member,Male,Snacks,66.35,5,331.75,E-wallet,15/03/2024,11:09:00,Friday,16.59,315.16,7
+INV-0665,B,Los Angeles,Member,Female,Clothing,5.83,7,40.81,Credit Card,19/01/2024,13:54:00,Friday,2.04,38.77,1
+INV-0666,C,Chicago,Member,Female,Electronics,54.09,4,216.36,Credit Card,22/03/2024,21:18:00,Friday,10.82,205.54,7
+INV-0667,B,Los Angeles,Normal,Female,Home Appliances,29.68,1,29.68,Cash,20/02/2024,12:37:00,Tuesday,1.48,28.2,3
+INV-0668,B,Los Angeles,Normal,Male,Clothing,70.27,10,702.7,Credit Card,09/02/2024,11:40:00,Friday,35.14,667.56,9
+INV-0669,C,Chicago,Normal,Female,Beverages,60.71,5,303.55,Credit Card,08/03/2024,11:59:00,Friday,15.18,288.37,3
+INV-0670,C,Chicago,Member,Male,Snacks,51.88,8,415.04,Credit Card,18/01/2024,10:19:00,Thursday,20.75,394.29,6
+INV-0671,A,New York,Normal,Female,Clothing,41.1,9,369.9,E-wallet,13/03/2024,13:55:00,Wednesday,18.5,351.4,4
+INV-0672,C,Chicago,Normal,Male,Electronics,79.97,8,639.76,Credit Card,19/03/2024,13:36:00,Tuesday,31.99,607.77,7
+INV-0673,B,Los Angeles,Member,Female,Beverages,97.42,3,292.26,E-wallet,19/02/2024,16:21:00,Monday,14.61,277.65,7
+INV-0674,C,Chicago,Member,Male,Home Appliances,90.49,1,90.49,Credit Card,07/02/2024,13:44:00,Wednesday,4.52,85.97,5
+INV-0675,B,Los Angeles,Member,Female,Clothing,59.55,5,297.75,Cash,23/02/2024,17:12:00,Friday,14.89,282.86,3
+INV-0676,C,Chicago,Member,Female,Home Appliances,94.41,1,94.41,Credit Card,18/02/2024,15:37:00,Sunday,4.72,89.69,7
+INV-0677,C,Chicago,Member,Male,Electronics,95.64,10,956.4,E-wallet,11/02/2024,14:15:00,Sunday,47.82,908.58,1
+INV-0678,C,Chicago,Normal,Male,Electronics,72.37,3,217.11,Credit Card,03/01/2024,21:41:00,Wednesday,10.86,206.25,3
+INV-0679,A,New York,Member,Male,Clothing,5.3,3,15.9,Cash,26/01/2024,17:49:00,Friday,0.8,15.1,9
+INV-0680,C,Chicago,Normal,Male,Clothing,48.6,9,437.4,Credit Card,28/03/2024,17:35:00,Thursday,21.87,415.53,3
+INV-0681,B,Los Angeles,Normal,Male,Snacks,40.12,5,200.6,Credit Card,11/02/2024,11:08:00,Sunday,10.03,190.57,2
+INV-0682,C,Chicago,Member,Male,Snacks,42.68,2,85.36,Credit Card,06/02/2024,18:45:00,Tuesday,4.27,81.09,4
+INV-0683,B,Los Angeles,Member,Male,Beverages,56.47,2,112.94,Credit Card,18/02/2024,16:59:00,Sunday,5.65,107.29,2
+INV-0684,A,New York,Member,Male,Electronics,37.82,6,226.92,E-wallet,03/03/2024,08:10:00,Sunday,11.35,215.57,10
+INV-0685,A,New York,Member,Male,Beverages,85.2,7,596.4,Credit Card,07/02/2024,18:13:00,Wednesday,29.82,566.58,2
+INV-0686,A,New York,Member,Male,Home Appliances,5.97,5,29.85,E-wallet,06/03/2024,15:48:00,Wednesday,1.49,28.36,2
+INV-0687,A,New York,Normal,Male,Beverages,28.02,1,28.02,Cash,15/02/2024,11:51:00,Thursday,1.4,26.62,4
+INV-0688,C,Chicago,Member,Male,Home Appliances,49.25,6,295.5,Cash,14/01/2024,09:27:00,Sunday,14.78,280.72,10
+INV-0689,B,Los Angeles,Normal,Female,Home Appliances,39.34,9,354.06,Credit Card,16/01/2024,14:53:00,Tuesday,17.7,336.36,8
+INV-0690,A,New York,Normal,Female,Beverages,86.7,4,346.8,Cash,26/01/2024,08:35:00,Friday,17.34,329.46,8
+INV-0691,C,Chicago,Member,Female,Personal Care,25.3,9,227.7,E-wallet,11/03/2024,21:25:00,Monday,11.38,216.32,10
+INV-0692,B,Los Angeles,Normal,Male,Personal Care,21.25,7,148.75,Credit Card,05/03/2024,19:13:00,Tuesday,7.44,141.31,10
+INV-0693,B,Los Angeles,Member,Male,Snacks,21.15,9,190.35,Cash,19/01/2024,13:59:00,Friday,9.52,180.83,8
+INV-0694,A,New York,Normal,Female,Beverages,72.48,8,579.84,E-wallet,28/03/2024,16:59:00,Thursday,28.99,550.85,4
+INV-0695,B,Los Angeles,Normal,Male,Home Appliances,80.36,9,723.24,E-wallet,16/02/2024,15:32:00,Friday,36.16,687.08,3
+INV-0696,A,New York,Normal,Female,Personal Care,10.7,2,21.4,Cash,11/02/2024,21:14:00,Sunday,1.07,20.33,4
+INV-0697,C,Chicago,Normal,Female,Clothing,37.58,9,338.22,Credit Card,19/03/2024,15:51:00,Tuesday,16.91,321.31,5
+INV-0698,A,New York,Member,Female,Clothing,57.19,5,285.95,Credit Card,25/01/2024,10:25:00,Thursday,14.3,271.65,1
+INV-0699,B,Los Angeles,Normal,Male,Snacks,93.65,5,468.25,Cash,19/03/2024,10:54:00,Tuesday,23.41,444.84,3
+INV-0700,C,Chicago,Member,Male,Personal Care,49.7,9,447.3,Credit Card,15/01/2024,18:55:00,Monday,22.37,424.93,6
+INV-0701,A,New York,Normal,Male,Snacks,16.05,8,128.4,E-wallet,15/01/2024,17:43:00,Monday,6.42,121.98,1
+INV-0702,C,Chicago,Member,Female,Personal Care,58.54,1,58.54,E-wallet,16/03/2024,11:08:00,Saturday,2.93,55.61,10
+INV-0703,A,New York,Normal,Female,Clothing,58.9,1,58.9,E-wallet,09/01/2024,14:39:00,Tuesday,2.95,55.95,1
+INV-0704,C,Chicago,Normal,Female,Personal Care,71.83,10,718.3,Credit Card,09/03/2024,19:46:00,Saturday,35.91,682.39,1
+INV-0705,A,New York,Normal,Female,Home Appliances,27.73,2,55.46,Cash,05/02/2024,17:59:00,Monday,2.77,52.69,8
+INV-0706,B,Los Angeles,Normal,Female,Personal Care,43.94,8,351.52,Credit Card,27/03/2024,12:05:00,Wednesday,17.58,333.94,5
+INV-0707,C,Chicago,Member,Female,Electronics,78.08,5,390.4,Cash,30/01/2024,14:56:00,Tuesday,19.52,370.88,5
+INV-0708,B,Los Angeles,Normal,Female,Home Appliances,94.73,4,378.92,Credit Card,17/02/2024,17:58:00,Saturday,18.95,359.97,10
+INV-0709,A,New York,Normal,Female,Snacks,35.07,2,70.14,Cash,25/02/2024,18:59:00,Sunday,3.51,66.63,4
+INV-0710,A,New York,Normal,Male,Personal Care,6.56,1,6.56,Credit Card,16/01/2024,20:18:00,Tuesday,0.33,6.23,1
+INV-0711,C,Chicago,Member,Female,Home Appliances,24.14,10,241.4,Cash,29/01/2024,21:53:00,Monday,12.07,229.33,5
+INV-0712,A,New York,Normal,Female,Personal Care,26.52,4,106.08,Cash,28/01/2024,17:15:00,Sunday,5.3,100.78,5
+INV-0713,A,New York,Normal,Male,Personal Care,29.88,8,239.04,Credit Card,09/03/2024,21:00:00,Saturday,11.95,227.09,10
+INV-0714,C,Chicago,Normal,Male,Home Appliances,16.45,5,82.25,E-wallet,11/03/2024,09:52:00,Monday,4.11,78.14,3
+INV-0715,C,Chicago,Member,Female,Snacks,72.23,8,577.84,E-wallet,09/01/2024,08:17:00,Tuesday,28.89,548.95,5
+INV-0716,B,Los Angeles,Normal,Female,Beverages,8.87,7,62.09,Credit Card,15/01/2024,16:40:00,Monday,3.1,58.99,9
+INV-0717,C,Chicago,Normal,Female,Snacks,24.24,1,24.24,Credit Card,23/02/2024,15:47:00,Friday,1.21,23.03,3
+INV-0718,B,Los Angeles,Member,Male,Clothing,16.23,10,162.3,Cash,19/02/2024,13:44:00,Monday,8.12,154.18,8
+INV-0719,C,Chicago,Member,Female,Home Appliances,93.92,5,469.6,Cash,19/01/2024,17:21:00,Friday,23.48,446.12,7
+INV-0720,B,Los Angeles,Normal,Male,Snacks,58.65,9,527.85,Cash,24/02/2024,11:23:00,Saturday,26.39,501.46,3
+INV-0721,C,Chicago,Member,Female,Electronics,32.22,2,64.44,Cash,11/03/2024,12:47:00,Monday,3.22,61.22,4
+INV-0722,C,Chicago,Member,Male,Personal Care,11.92,3,35.76,Cash,19/02/2024,10:24:00,Monday,1.79,33.97,6
+INV-0723,B,Los Angeles,Normal,Female,Snacks,59.49,1,59.49,E-wallet,11/01/2024,16:54:00,Thursday,2.97,56.52,2
+INV-0724,A,New York,Normal,Female,Beverages,61.15,8,489.2,Cash,06/03/2024,09:18:00,Wednesday,24.46,464.74,7
+INV-0725,A,New York,Normal,Male,Clothing,83.76,6,502.56,E-wallet,01/01/2024,09:55:00,Monday,25.13,477.43,7
+INV-0726,A,New York,Normal,Male,Personal Care,8.99,4,35.96,Cash,06/02/2024,09:28:00,Tuesday,1.8,34.16,7
+INV-0727,C,Chicago,Member,Male,Personal Care,18.72,9,168.48,Credit Card,07/03/2024,08:59:00,Thursday,8.42,160.06,10
+INV-0728,B,Los Angeles,Normal,Female,Snacks,39.53,1,39.53,Cash,18/01/2024,18:53:00,Thursday,1.98,37.55,4
+INV-0729,A,New York,Normal,Female,Electronics,24.01,10,240.1,E-wallet,02/01/2024,14:04:00,Tuesday,12.01,228.09,1
+INV-0730,C,Chicago,Member,Male,Home Appliances,24.33,5,121.65,Credit Card,11/03/2024,20:50:00,Monday,6.08,115.57,4
+INV-0731,B,Los Angeles,Normal,Male,Snacks,32.37,10,323.7,E-wallet,02/03/2024,10:45:00,Saturday,16.18,307.52,1
+INV-0732,B,Los Angeles,Normal,Male,Home Appliances,5.57,7,38.99,Credit Card,09/02/2024,13:31:00,Friday,1.95,37.04,8
+INV-0733,C,Chicago,Normal,Female,Clothing,89.78,4,359.12,Credit Card,15/01/2024,15:19:00,Monday,17.96,341.16,10
+INV-0734,A,New York,Normal,Male,Clothing,62.59,3,187.77,E-wallet,07/03/2024,09:55:00,Thursday,9.39,178.38,7
+INV-0735,B,Los Angeles,Normal,Female,Personal Care,65.09,4,260.36,Credit Card,05/02/2024,19:02:00,Monday,13.02,247.34,2
+INV-0736,A,New York,Member,Male,Clothing,58.7,6,352.2,Credit Card,25/02/2024,11:15:00,Sunday,17.61,334.59,2
+INV-0737,A,New York,Member,Female,Personal Care,6.53,4,26.12,Cash,18/03/2024,12:03:00,Monday,1.31,24.81,9
+INV-0738,A,New York,Normal,Female,Home Appliances,91.78,8,734.24,Credit Card,12/01/2024,18:31:00,Friday,36.71,697.53,3
+INV-0739,A,New York,Member,Female,Clothing,57.56,10,575.6,E-wallet,29/03/2024,20:16:00,Friday,28.78,546.82,8
+INV-0740,B,Los Angeles,Member,Female,Snacks,31.37,5,156.85,Cash,07/02/2024,20:31:00,Wednesday,7.84,149.01,8
+INV-0741,A,New York,Normal,Male,Snacks,13.58,5,67.9,E-wallet,22/03/2024,09:54:00,Friday,3.4,64.5,8
+INV-0742,C,Chicago,Normal,Male,Clothing,40.32,3,120.96,Cash,22/02/2024,21:01:00,Thursday,6.05,114.91,5
+INV-0743,B,Los Angeles,Normal,Female,Clothing,91.38,9,822.42,Cash,01/01/2024,16:00:00,Monday,41.12,781.3,5
+INV-0744,C,Chicago,Member,Male,Beverages,28.44,10,284.4,Cash,07/03/2024,15:10:00,Thursday,14.22,270.18,5
+INV-0745,A,New York,Normal,Female,Clothing,87.8,4,351.2,Credit Card,24/03/2024,20:31:00,Sunday,17.56,333.64,5
+INV-0746,A,New York,Normal,Male,Electronics,53.64,1,53.64,E-wallet,27/02/2024,21:49:00,Tuesday,2.68,50.96,5
+INV-0747,B,Los Angeles,Member,Male,Electronics,28.34,2,56.68,E-wallet,05/01/2024,20:48:00,Friday,2.83,53.85,2
+INV-0748,A,New York,Member,Male,Clothing,42.5,2,85,Credit Card,03/01/2024,14:44:00,Wednesday,4.25,80.75,3
+INV-0749,C,Chicago,Member,Male,Beverages,52.49,7,367.43,Cash,02/01/2024,15:06:00,Tuesday,18.37,349.06,2
+INV-0750,B,Los Angeles,Normal,Female,Snacks,15.88,8,127.04,Cash,01/02/2024,12:23:00,Thursday,6.35,120.69,9
+INV-0751,C,Chicago,Normal,Male,Home Appliances,46.21,10,462.1,Credit Card,14/01/2024,11:41:00,Sunday,23.11,438.99,2
+INV-0752,C,Chicago,Member,Male,Clothing,42.84,6,257.04,Credit Card,03/03/2024,14:51:00,Sunday,12.85,244.19,5
+INV-0753,B,Los Angeles,Member,Male,Beverages,38.52,7,269.64,Credit Card,25/01/2024,13:39:00,Thursday,13.48,256.16,2
+INV-0754,C,Chicago,Member,Female,Beverages,93.07,4,372.28,Cash,23/01/2024,11:33:00,Tuesday,18.61,353.67,5
+INV-0755,B,Los Angeles,Normal,Female,Beverages,39.42,9,354.78,Credit Card,09/03/2024,21:21:00,Saturday,17.74,337.04,9
+INV-0756,C,Chicago,Member,Male,Electronics,49.51,6,297.06,Cash,02/01/2024,16:32:00,Tuesday,14.85,282.21,2
+INV-0757,C,Chicago,Normal,Male,Clothing,73.66,8,589.28,E-wallet,24/03/2024,21:58:00,Sunday,29.46,559.82,3
+INV-0758,C,Chicago,Normal,Male,Electronics,57.32,2,114.64,Credit Card,09/01/2024,13:13:00,Tuesday,5.73,108.91,6
+INV-0759,B,Los Angeles,Member,Male,Clothing,89.19,5,445.95,E-wallet,24/03/2024,19:46:00,Sunday,22.3,423.65,6
+INV-0760,B,Los Angeles,Member,Male,Snacks,89.56,9,806.04,E-wallet,18/02/2024,09:22:00,Sunday,40.3,765.74,6
+INV-0761,C,Chicago,Normal,Male,Clothing,40.6,7,284.2,Credit Card,30/03/2024,21:56:00,Saturday,14.21,269.99,4
+INV-0762,A,New York,Member,Male,Snacks,35.32,8,282.56,Cash,03/03/2024,10:49:00,Sunday,14.13,268.43,1
+INV-0763,C,Chicago,Normal,Male,Personal Care,53.4,5,267,Cash,13/02/2024,14:21:00,Tuesday,13.35,253.65,7
+INV-0764,C,Chicago,Normal,Male,Home Appliances,69.57,7,486.99,Cash,25/03/2024,20:09:00,Monday,24.35,462.64,7
+INV-0765,B,Los Angeles,Normal,Male,Snacks,91.98,7,643.86,E-wallet,14/03/2024,16:33:00,Thursday,32.19,611.67,7
+INV-0766,A,New York,Member,Male,Clothing,8.25,3,24.75,Credit Card,18/02/2024,09:34:00,Sunday,1.24,23.51,6
+INV-0767,C,Chicago,Member,Female,Home Appliances,38.97,2,77.94,Credit Card,01/02/2024,13:03:00,Thursday,3.9,74.04,4
+INV-0768,C,Chicago,Normal,Female,Home Appliances,85.97,9,773.73,Cash,19/01/2024,12:40:00,Friday,38.69,735.04,2
+INV-0769,A,New York,Normal,Male,Personal Care,35.3,8,282.4,E-wallet,09/01/2024,15:43:00,Tuesday,14.12,268.28,2
+INV-0770,C,Chicago,Member,Female,Clothing,40.27,2,80.54,Credit Card,27/03/2024,09:05:00,Wednesday,4.03,76.51,2
+INV-0771,A,New York,Member,Male,Electronics,66.45,3,199.35,Credit Card,18/02/2024,10:03:00,Sunday,9.97,189.38,2
+INV-0772,C,Chicago,Normal,Female,Snacks,34.13,8,273.04,Cash,19/01/2024,20:15:00,Friday,13.65,259.39,2
+INV-0773,A,New York,Member,Female,Beverages,30.61,2,61.22,Credit Card,28/02/2024,10:37:00,Wednesday,3.06,58.16,4
+INV-0774,A,New York,Member,Female,Snacks,53.67,5,268.35,Cash,17/02/2024,20:08:00,Saturday,13.42,254.93,3
+INV-0775,A,New York,Member,Male,Clothing,80.75,4,323,E-wallet,22/02/2024,09:30:00,Thursday,16.15,306.85,9
+INV-0776,B,Los Angeles,Normal,Female,Electronics,63.72,5,318.6,Credit Card,28/02/2024,18:58:00,Wednesday,15.93,302.67,1
+INV-0777,C,Chicago,Normal,Female,Snacks,6.67,9,60.03,E-wallet,05/01/2024,19:06:00,Friday,3,57.03,10
+INV-0778,C,Chicago,Member,Female,Personal Care,72.27,1,72.27,Cash,22/02/2024,21:11:00,Thursday,3.61,68.66,5
+INV-0779,A,New York,Member,Female,Home Appliances,59.59,1,59.59,E-wallet,12/01/2024,17:32:00,Friday,2.98,56.61,9
+INV-0780,C,Chicago,Member,Male,Electronics,11.03,9,99.27,E-wallet,06/03/2024,13:24:00,Wednesday,4.96,94.31,8
+INV-0781,B,Los Angeles,Member,Male,Clothing,68.63,2,137.26,E-wallet,29/01/2024,15:45:00,Monday,6.86,130.4,10
+INV-0782,A,New York,Member,Male,Electronics,6.59,2,13.18,Credit Card,03/01/2024,14:54:00,Wednesday,0.66,12.52,9
+INV-0783,B,Los Angeles,Member,Female,Home Appliances,55.03,2,110.06,Credit Card,25/02/2024,11:41:00,Sunday,5.5,104.56,4
+INV-0784,B,Los Angeles,Normal,Female,Beverages,54.37,5,271.85,E-wallet,30/01/2024,09:01:00,Tuesday,13.59,258.26,2
+INV-0785,C,Chicago,Member,Male,Electronics,21.94,10,219.4,E-wallet,08/01/2024,19:31:00,Monday,10.97,208.43,4
+INV-0786,B,Los Angeles,Normal,Female,Electronics,79.27,7,554.89,E-wallet,06/01/2024,10:52:00,Saturday,27.74,527.15,8
+INV-0787,A,New York,Normal,Female,Electronics,34.39,10,343.9,E-wallet,22/03/2024,19:49:00,Friday,17.2,326.7,3
+INV-0788,C,Chicago,Normal,Female,Clothing,75.91,9,683.19,Credit Card,29/01/2024,14:59:00,Monday,34.16,649.03,3
+INV-0789,B,Los Angeles,Member,Female,Electronics,45.49,3,136.47,E-wallet,11/03/2024,09:47:00,Monday,6.82,129.65,8
+INV-0790,C,Chicago,Normal,Male,Snacks,85.16,6,510.96,E-wallet,01/02/2024,21:43:00,Thursday,25.55,485.41,10
+INV-0791,A,New York,Normal,Female,Personal Care,31.48,8,251.84,E-wallet,05/02/2024,21:19:00,Monday,12.59,239.25,10
+INV-0792,C,Chicago,Member,Female,Personal Care,12.59,4,50.36,Credit Card,18/02/2024,09:25:00,Sunday,2.52,47.84,4
+INV-0793,C,Chicago,Normal,Male,Home Appliances,19.03,1,19.03,Credit Card,20/02/2024,16:03:00,Tuesday,0.95,18.08,5
+INV-0794,C,Chicago,Normal,Female,Snacks,63.14,2,126.28,Credit Card,15/03/2024,10:26:00,Friday,6.31,119.97,7
+INV-0795,A,New York,Normal,Female,Snacks,83.29,8,666.32,Cash,11/02/2024,17:52:00,Sunday,33.32,633,7
+INV-0796,A,New York,Member,Female,Clothing,36.28,8,290.24,E-wallet,24/02/2024,09:36:00,Saturday,14.51,275.73,8
+INV-0797,C,Chicago,Member,Female,Home Appliances,5.96,2,11.92,Credit Card,16/01/2024,19:42:00,Tuesday,0.6,11.32,4
+INV-0798,A,New York,Normal,Female,Clothing,19.49,7,136.43,E-wallet,19/03/2024,14:53:00,Tuesday,6.82,129.61,10
+INV-0799,B,Los Angeles,Member,Male,Personal Care,53.29,2,106.58,E-wallet,03/01/2024,20:52:00,Wednesday,5.33,101.25,3
+INV-0800,A,New York,Normal,Female,Snacks,42.33,3,126.99,Cash,14/03/2024,20:35:00,Thursday,6.35,120.64,5
+INV-0801,C,Chicago,Normal,Female,Beverages,94.49,2,188.98,E-wallet,13/01/2024,13:34:00,Saturday,9.45,179.53,1
+INV-0802,B,Los Angeles,Normal,Female,Snacks,98.33,4,393.32,Credit Card,20/03/2024,20:53:00,Wednesday,19.67,373.65,5
+INV-0803,B,Los Angeles,Member,Male,Clothing,52.11,2,104.22,Credit Card,18/02/2024,20:44:00,Sunday,5.21,99.01,1
+INV-0804,A,New York,Member,Female,Beverages,57.42,10,574.2,E-wallet,28/03/2024,18:15:00,Thursday,28.71,545.49,7
+INV-0805,C,Chicago,Member,Male,Personal Care,5.13,8,41.04,Cash,04/03/2024,18:52:00,Monday,2.05,38.99,5
+INV-0806,C,Chicago,Normal,Male,Personal Care,88.21,10,882.1,Cash,28/02/2024,12:51:00,Wednesday,44.11,837.99,6
+INV-0807,C,Chicago,Normal,Female,Beverages,40.83,6,244.98,E-wallet,28/03/2024,09:08:00,Thursday,12.25,232.73,9
+INV-0808,B,Los Angeles,Normal,Female,Electronics,20.23,7,141.61,Cash,15/01/2024,17:30:00,Monday,7.08,134.53,3
+INV-0809,C,Chicago,Normal,Male,Beverages,64.04,10,640.4,E-wallet,24/02/2024,15:29:00,Saturday,32.02,608.38,7
+INV-0810,C,Chicago,Member,Male,Clothing,32.06,2,64.12,Credit Card,28/03/2024,12:38:00,Thursday,3.21,60.91,6
+INV-0811,B,Los Angeles,Member,Male,Clothing,30.07,1,30.07,Cash,18/01/2024,15:13:00,Thursday,1.5,28.57,1
+INV-0812,A,New York,Member,Female,Personal Care,90.28,2,180.56,Cash,19/03/2024,08:27:00,Tuesday,9.03,171.53,5
+INV-0813,A,New York,Member,Male,Home Appliances,70.85,5,354.25,Credit Card,28/02/2024,13:16:00,Wednesday,17.71,336.54,9
+INV-0814,B,Los Angeles,Normal,Male,Beverages,62.04,6,372.24,E-wallet,31/01/2024,14:34:00,Wednesday,18.61,353.63,5
+INV-0815,A,New York,Member,Female,Beverages,94.32,2,188.64,Credit Card,04/02/2024,10:59:00,Sunday,9.43,179.21,7
+INV-0816,B,Los Angeles,Member,Female,Personal Care,97.41,10,974.1,E-wallet,27/01/2024,11:45:00,Saturday,48.71,925.39,3
+INV-0817,A,New York,Member,Female,Snacks,53.44,8,427.52,Credit Card,18/01/2024,19:01:00,Thursday,21.38,406.14,5
+INV-0818,C,Chicago,Member,Female,Beverages,72.1,2,144.2,E-wallet,07/01/2024,16:01:00,Sunday,7.21,136.99,8
+INV-0819,B,Los Angeles,Member,Female,Snacks,58.42,6,350.52,E-wallet,16/03/2024,21:07:00,Saturday,17.53,332.99,4
+INV-0820,A,New York,Member,Male,Personal Care,63.79,1,63.79,Credit Card,10/02/2024,17:29:00,Saturday,3.19,60.6,6
+INV-0821,A,New York,Member,Female,Electronics,21.99,6,131.94,E-wallet,09/01/2024,14:00:00,Tuesday,6.6,125.34,3
+INV-0822,C,Chicago,Member,Male,Beverages,46.08,9,414.72,E-wallet,09/02/2024,20:23:00,Friday,20.74,393.98,9
+INV-0823,A,New York,Normal,Female,Clothing,41.68,2,83.36,Credit Card,09/03/2024,11:46:00,Saturday,4.17,79.19,2
+INV-0824,C,Chicago,Member,Female,Electronics,98.29,9,884.61,Cash,16/03/2024,15:45:00,Saturday,44.23,840.38,1
+INV-0825,B,Los Angeles,Normal,Male,Electronics,28.32,8,226.56,Cash,04/03/2024,14:28:00,Monday,11.33,215.23,8
+INV-0826,C,Chicago,Member,Female,Home Appliances,74.61,6,447.66,E-wallet,12/02/2024,15:55:00,Monday,22.38,425.28,7
+INV-0827,A,New York,Normal,Male,Snacks,79.1,4,316.4,E-wallet,27/01/2024,20:37:00,Saturday,15.82,300.58,3
+INV-0828,A,New York,Member,Male,Electronics,8.96,5,44.8,E-wallet,24/02/2024,12:41:00,Saturday,2.24,42.56,5
+INV-0829,B,Los Angeles,Member,Female,Electronics,33.85,3,101.55,Cash,13/01/2024,10:40:00,Saturday,5.08,96.47,7
+INV-0830,B,Los Angeles,Normal,Female,Electronics,57.4,3,172.2,Cash,29/03/2024,09:33:00,Friday,8.61,163.59,6
+INV-0831,A,New York,Member,Male,Snacks,54.15,8,433.2,E-wallet,27/03/2024,09:18:00,Wednesday,21.66,411.54,4
+INV-0832,B,Los Angeles,Member,Female,Electronics,14.05,9,126.45,Cash,23/02/2024,20:23:00,Friday,6.32,120.13,6
+INV-0833,C,Chicago,Member,Female,Electronics,86.69,2,173.38,Credit Card,22/02/2024,11:06:00,Thursday,8.67,164.71,9
+INV-0834,A,New York,Member,Female,Home Appliances,95.51,6,573.06,E-wallet,09/01/2024,15:41:00,Tuesday,28.65,544.41,6
+INV-0835,A,New York,Member,Male,Electronics,97.37,8,778.96,E-wallet,18/01/2024,13:52:00,Thursday,38.95,740.01,5
+INV-0836,A,New York,Normal,Female,Electronics,88.77,6,532.62,Cash,10/03/2024,21:59:00,Sunday,26.63,505.99,6
+INV-0837,B,Los Angeles,Member,Male,Electronics,49.34,4,197.36,Credit Card,20/01/2024,12:00:00,Saturday,9.87,187.49,8
+INV-0838,B,Los Angeles,Normal,Male,Snacks,13.61,7,95.27,Cash,21/01/2024,19:43:00,Sunday,4.76,90.51,3
+INV-0839,A,New York,Normal,Male,Clothing,98.99,3,296.97,Credit Card,12/03/2024,20:16:00,Tuesday,14.85,282.12,2
+INV-0840,C,Chicago,Member,Male,Snacks,83.07,10,830.7,Credit Card,02/03/2024,08:40:00,Saturday,41.54,789.16,5
+INV-0841,A,New York,Member,Male,Home Appliances,7.2,6,43.2,Credit Card,29/01/2024,08:09:00,Monday,2.16,41.04,9
+INV-0842,A,New York,Normal,Male,Snacks,50.46,3,151.38,Cash,27/02/2024,18:52:00,Tuesday,7.57,143.81,4
+INV-0843,A,New York,Normal,Male,Home Appliances,42.51,5,212.55,Cash,12/02/2024,16:08:00,Monday,10.63,201.92,7
+INV-0844,A,New York,Member,Female,Snacks,37.56,10,375.6,Credit Card,16/01/2024,10:57:00,Tuesday,18.78,356.82,10
+INV-0845,C,Chicago,Normal,Female,Personal Care,44.66,7,312.62,Credit Card,20/01/2024,14:12:00,Saturday,15.63,296.99,7
+INV-0846,C,Chicago,Member,Male,Beverages,41.85,5,209.25,Credit Card,14/02/2024,15:09:00,Wednesday,10.46,198.79,4
+INV-0847,C,Chicago,Normal,Female,Home Appliances,46.49,4,185.96,Cash,01/01/2024,19:18:00,Monday,9.3,176.66,3
+INV-0848,A,New York,Normal,Male,Clothing,49.07,4,196.28,Credit Card,25/02/2024,10:46:00,Sunday,9.81,186.47,9
+INV-0849,B,Los Angeles,Member,Female,Electronics,93.08,4,372.32,E-wallet,10/03/2024,17:09:00,Sunday,18.62,353.7,10
+INV-0850,C,Chicago,Member,Female,Home Appliances,40.93,8,327.44,E-wallet,29/01/2024,15:35:00,Monday,16.37,311.07,4
+INV-0851,C,Chicago,Member,Female,Snacks,85,2,170,Credit Card,22/02/2024,21:51:00,Thursday,8.5,161.5,10
+INV-0852,A,New York,Member,Female,Beverages,21.21,2,42.42,Cash,01/01/2024,20:08:00,Monday,2.12,40.3,7
+INV-0853,C,Chicago,Normal,Female,Snacks,13.42,9,120.78,E-wallet,21/03/2024,20:42:00,Thursday,6.04,114.74,2
+INV-0854,A,New York,Member,Female,Electronics,64.51,10,645.1,Credit Card,25/02/2024,15:25:00,Sunday,32.26,612.84,5
+INV-0855,A,New York,Normal,Male,Snacks,97.11,6,582.66,E-wallet,13/03/2024,12:01:00,Wednesday,29.13,553.53,7
+INV-0856,A,New York,Member,Female,Personal Care,53.28,1,53.28,E-wallet,27/01/2024,19:24:00,Saturday,2.66,50.62,7
+INV-0857,C,Chicago,Normal,Female,Snacks,73.24,1,73.24,E-wallet,30/03/2024,16:32:00,Saturday,3.66,69.58,7
+INV-0858,A,New York,Normal,Male,Clothing,56.06,3,168.18,Cash,02/02/2024,08:00:00,Friday,8.41,159.77,5
+INV-0859,A,New York,Normal,Male,Beverages,6.48,4,25.92,Credit Card,02/01/2024,17:57:00,Tuesday,1.3,24.62,9
+INV-0860,B,Los Angeles,Normal,Male,Home Appliances,6.26,7,43.82,Cash,16/01/2024,21:50:00,Tuesday,2.19,41.63,10
+INV-0861,A,New York,Member,Male,Beverages,89.4,4,357.6,Cash,18/02/2024,19:57:00,Sunday,17.88,339.72,5
+INV-0862,B,Los Angeles,Normal,Female,Beverages,53.44,10,534.4,Credit Card,15/02/2024,21:18:00,Thursday,26.72,507.68,7
+INV-0863,A,New York,Normal,Male,Home Appliances,83.04,7,581.28,Credit Card,15/03/2024,12:59:00,Friday,29.06,552.22,6
+INV-0864,A,New York,Member,Male,Clothing,69.29,8,554.32,Cash,24/02/2024,08:17:00,Saturday,27.72,526.6,6
+INV-0865,C,Chicago,Normal,Male,Beverages,67.67,1,67.67,Credit Card,29/02/2024,12:43:00,Thursday,3.38,64.29,1
+INV-0866,B,Los Angeles,Normal,Male,Personal Care,21.46,8,171.68,Credit Card,26/03/2024,13:53:00,Tuesday,8.58,163.1,9
+INV-0867,B,Los Angeles,Normal,Male,Electronics,6.05,4,24.2,Credit Card,05/01/2024,21:44:00,Friday,1.21,22.99,6
+INV-0868,B,Los Angeles,Member,Male,Electronics,55.57,3,166.71,Cash,14/02/2024,18:24:00,Wednesday,8.34,158.37,3
+INV-0869,B,Los Angeles,Member,Male,Personal Care,86.43,1,86.43,E-wallet,02/03/2024,11:21:00,Saturday,4.32,82.11,5
+INV-0870,A,New York,Normal,Male,Personal Care,50.35,5,251.75,E-wallet,01/03/2024,15:46:00,Friday,12.59,239.16,3
+INV-0871,C,Chicago,Normal,Male,Beverages,75.56,8,604.48,Cash,27/01/2024,17:55:00,Saturday,30.22,574.26,5
+INV-0872,C,Chicago,Member,Female,Electronics,27.14,5,135.7,Credit Card,03/02/2024,15:26:00,Saturday,6.79,128.91,7
+INV-0873,A,New York,Member,Male,Beverages,74.37,9,669.33,E-wallet,02/01/2024,10:48:00,Tuesday,33.47,635.86,4
+INV-0874,B,Los Angeles,Member,Male,Clothing,64.38,6,386.28,E-wallet,13/01/2024,10:42:00,Saturday,19.31,366.97,10
+INV-0875,B,Los Angeles,Normal,Male,Electronics,15.72,1,15.72,E-wallet,26/01/2024,18:21:00,Friday,0.79,14.93,6
+INV-0876,C,Chicago,Normal,Female,Snacks,73.95,3,221.85,E-wallet,26/03/2024,09:21:00,Tuesday,11.09,210.76,8
+INV-0877,C,Chicago,Normal,Male,Snacks,80.61,4,322.44,Cash,01/02/2024,14:58:00,Thursday,16.12,306.32,1
+INV-0878,A,New York,Normal,Female,Home Appliances,40.27,7,281.89,E-wallet,02/02/2024,13:04:00,Friday,14.09,267.8,2
+INV-0879,A,New York,Normal,Female,Home Appliances,71.34,10,713.4,Cash,15/01/2024,15:08:00,Monday,35.67,677.73,10
+INV-0880,B,Los Angeles,Member,Male,Electronics,81.97,8,655.76,Cash,30/01/2024,15:02:00,Tuesday,32.79,622.97,8
+INV-0881,A,New York,Member,Male,Snacks,61.75,4,247,Credit Card,17/02/2024,20:01:00,Saturday,12.35,234.65,1
+INV-0882,A,New York,Normal,Female,Personal Care,50.61,3,151.83,Credit Card,17/01/2024,10:40:00,Wednesday,7.59,144.24,5
+INV-0883,B,Los Angeles,Member,Female,Personal Care,68.92,8,551.36,Credit Card,19/03/2024,21:03:00,Tuesday,27.57,523.79,5
+INV-0884,C,Chicago,Member,Male,Snacks,34.6,3,103.8,Cash,05/03/2024,13:20:00,Tuesday,5.19,98.61,1
+INV-0885,C,Chicago,Normal,Male,Snacks,63.45,1,63.45,Cash,11/01/2024,15:40:00,Thursday,3.17,60.28,5
+INV-0886,C,Chicago,Normal,Female,Beverages,16.46,1,16.46,Credit Card,06/01/2024,12:33:00,Saturday,0.82,15.64,7
+INV-0887,C,Chicago,Normal,Female,Personal Care,72.18,9,649.62,E-wallet,21/01/2024,10:48:00,Sunday,32.48,617.14,9
+INV-0888,A,New York,Normal,Male,Electronics,98.86,8,790.88,Cash,19/01/2024,09:08:00,Friday,39.54,751.34,8
+INV-0889,C,Chicago,Normal,Female,Snacks,95.88,7,671.16,Cash,21/02/2024,11:59:00,Wednesday,33.56,637.6,8
+INV-0890,A,New York,Member,Male,Home Appliances,24.8,1,24.8,E-wallet,21/02/2024,12:36:00,Wednesday,1.24,23.56,8
+INV-0891,C,Chicago,Member,Male,Snacks,91.88,10,918.8,Cash,25/02/2024,14:50:00,Sunday,45.94,872.86,7
+INV-0892,B,Los Angeles,Member,Female,Clothing,94.76,9,852.84,E-wallet,05/03/2024,11:51:00,Tuesday,42.64,810.2,2
+INV-0893,B,Los Angeles,Member,Male,Home Appliances,14.08,9,126.72,E-wallet,07/02/2024,14:12:00,Wednesday,6.34,120.38,10
+INV-0894,C,Chicago,Member,Female,Beverages,23.92,4,95.68,Cash,09/03/2024,17:55:00,Saturday,4.78,90.9,8
+INV-0895,A,New York,Member,Female,Snacks,70.01,7,490.07,Credit Card,24/02/2024,20:59:00,Saturday,24.5,465.57,9
+INV-0896,A,New York,Normal,Female,Home Appliances,58.01,2,116.02,Cash,11/03/2024,12:59:00,Monday,5.8,110.22,4
+INV-0897,A,New York,Normal,Male,Home Appliances,33.31,9,299.79,E-wallet,28/03/2024,15:53:00,Thursday,14.99,284.8,2
+INV-0898,B,Los Angeles,Member,Male,Home Appliances,52.3,7,366.1,Credit Card,08/01/2024,16:55:00,Monday,18.31,347.79,4
+INV-0899,A,New York,Normal,Female,Clothing,84.84,4,339.36,Cash,13/01/2024,08:30:00,Saturday,16.97,322.39,7
+INV-0900,A,New York,Normal,Female,Clothing,49.17,3,147.51,Cash,15/03/2024,14:15:00,Friday,7.38,140.13,10
+INV-0901,A,New York,Normal,Female,Beverages,41.81,5,209.05,Credit Card,13/03/2024,15:33:00,Wednesday,10.45,198.6,7
+INV-0902,C,Chicago,Normal,Male,Personal Care,10.35,6,62.1,Credit Card,25/01/2024,08:43:00,Thursday,3.11,58.99,6
+INV-0903,C,Chicago,Member,Female,Clothing,82.59,9,743.31,E-wallet,28/01/2024,13:17:00,Sunday,37.17,706.14,2
+INV-0904,B,Los Angeles,Normal,Male,Electronics,15.25,4,61,E-wallet,05/01/2024,15:29:00,Friday,3.05,57.95,1
+INV-0905,C,Chicago,Normal,Female,Personal Care,55.26,6,331.56,Credit Card,01/03/2024,15:14:00,Friday,16.58,314.98,10
+INV-0906,A,New York,Normal,Male,Clothing,11.8,8,94.4,Credit Card,26/02/2024,10:57:00,Monday,4.72,89.68,2
+INV-0907,B,Los Angeles,Member,Male,Personal Care,69.86,2,139.72,Credit Card,11/03/2024,16:42:00,Monday,6.99,132.73,8
+INV-0908,B,Los Angeles,Member,Female,Clothing,79.69,6,478.14,Credit Card,07/01/2024,13:48:00,Sunday,23.91,454.23,6
+INV-0909,C,Chicago,Member,Female,Beverages,75.99,3,227.97,Cash,25/02/2024,21:25:00,Sunday,11.4,216.57,8
+INV-0910,C,Chicago,Normal,Female,Electronics,69.31,1,69.31,E-wallet,04/03/2024,21:00:00,Monday,3.47,65.84,8
+INV-0911,B,Los Angeles,Normal,Male,Home Appliances,94.89,8,759.12,Credit Card,26/01/2024,12:13:00,Friday,37.96,721.16,5
+INV-0912,A,New York,Normal,Male,Electronics,87.59,2,175.18,E-wallet,16/02/2024,14:16:00,Friday,8.76,166.42,8
+INV-0913,A,New York,Normal,Female,Beverages,13.71,5,68.55,Credit Card,04/01/2024,08:46:00,Thursday,3.43,65.12,1
+INV-0914,A,New York,Normal,Female,Electronics,99.58,8,796.64,E-wallet,09/02/2024,12:29:00,Friday,39.83,756.81,6
+INV-0915,A,New York,Normal,Male,Personal Care,19.55,9,175.95,Credit Card,05/01/2024,11:06:00,Friday,8.8,167.15,7
+INV-0916,B,Los Angeles,Member,Female,Clothing,63.92,8,511.36,Credit Card,07/03/2024,09:57:00,Thursday,25.57,485.79,3
+INV-0917,C,Chicago,Member,Female,Personal Care,36.04,7,252.28,Credit Card,18/03/2024,19:56:00,Monday,12.61,239.67,4
+INV-0918,A,New York,Normal,Female,Electronics,18.95,1,18.95,E-wallet,04/03/2024,13:00:00,Monday,0.95,18,4
+INV-0919,C,Chicago,Normal,Female,Electronics,93.56,2,187.12,Credit Card,07/03/2024,21:12:00,Thursday,9.36,177.76,3
+INV-0920,A,New York,Member,Female,Home Appliances,83.75,9,753.75,Credit Card,02/01/2024,12:39:00,Tuesday,37.69,716.06,5
+INV-0921,C,Chicago,Normal,Male,Electronics,36.8,9,331.2,Credit Card,15/01/2024,21:59:00,Monday,16.56,314.64,10
+INV-0922,C,Chicago,Normal,Male,Snacks,38.43,1,38.43,Cash,27/01/2024,20:15:00,Saturday,1.92,36.51,8
+INV-0923,C,Chicago,Member,Male,Home Appliances,77.3,7,541.1,Cash,27/02/2024,19:25:00,Tuesday,27.06,514.04,3
+INV-0924,A,New York,Member,Female,Snacks,38.8,8,310.4,Cash,09/03/2024,14:00:00,Saturday,15.52,294.88,9
+INV-0925,A,New York,Member,Male,Snacks,82.53,3,247.59,Credit Card,30/03/2024,10:26:00,Saturday,12.38,235.21,4
+INV-0926,A,New York,Member,Female,Home Appliances,23.23,5,116.15,Cash,07/02/2024,09:59:00,Wednesday,5.81,110.34,9
+INV-0927,B,Los Angeles,Member,Male,Home Appliances,67.13,3,201.39,Cash,03/02/2024,12:02:00,Saturday,10.07,191.32,9
+INV-0928,A,New York,Normal,Female,Beverages,81,7,567,Cash,08/01/2024,09:24:00,Monday,28.35,538.65,8
+INV-0929,C,Chicago,Member,Female,Snacks,76.27,7,533.89,Credit Card,10/03/2024,14:45:00,Sunday,26.69,507.2,2
+INV-0930,A,New York,Normal,Female,Home Appliances,23.87,9,214.83,Credit Card,01/03/2024,09:41:00,Friday,10.74,204.09,6
+INV-0931,C,Chicago,Member,Male,Electronics,92.58,9,833.22,Cash,25/02/2024,09:24:00,Sunday,41.66,791.56,7
+INV-0932,C,Chicago,Member,Female,Home Appliances,85.03,10,850.3,Credit Card,07/01/2024,11:48:00,Sunday,42.52,807.78,8
+INV-0933,B,Los Angeles,Normal,Female,Home Appliances,59.85,5,299.25,E-wallet,29/02/2024,14:19:00,Thursday,14.96,284.29,8
+INV-0934,A,New York,Member,Female,Home Appliances,46.31,1,46.31,Credit Card,07/01/2024,08:36:00,Sunday,2.32,43.99,2
+INV-0935,A,New York,Normal,Female,Clothing,42.11,1,42.11,Cash,16/02/2024,16:59:00,Friday,2.11,40,1
+INV-0936,B,Los Angeles,Normal,Female,Electronics,74.96,2,149.92,Cash,27/01/2024,17:41:00,Saturday,7.5,142.42,6
+INV-0937,B,Los Angeles,Normal,Male,Electronics,37.9,9,341.1,Credit Card,28/01/2024,13:47:00,Sunday,17.06,324.04,9
+INV-0938,C,Chicago,Member,Male,Snacks,77.56,9,698.04,Credit Card,09/01/2024,17:46:00,Tuesday,34.9,663.14,8
+INV-0939,C,Chicago,Normal,Female,Snacks,43.74,3,131.22,Credit Card,07/01/2024,11:55:00,Sunday,6.56,124.66,3
+INV-0940,B,Los Angeles,Normal,Female,Home Appliances,92.95,7,650.65,Credit Card,27/02/2024,20:00:00,Tuesday,32.53,618.12,8
+INV-0941,C,Chicago,Member,Male,Home Appliances,31.82,10,318.2,Cash,06/02/2024,18:32:00,Tuesday,15.91,302.29,7
+INV-0942,B,Los Angeles,Member,Male,Snacks,18.07,10,180.7,Cash,17/03/2024,13:45:00,Sunday,9.04,171.66,2
+INV-0943,B,Los Angeles,Normal,Female,Home Appliances,90.32,1,90.32,E-wallet,15/03/2024,19:58:00,Friday,4.52,85.8,9
+INV-0944,A,New York,Normal,Male,Electronics,88.49,10,884.9,E-wallet,30/03/2024,20:18:00,Saturday,44.25,840.65,9
+INV-0945,C,Chicago,Normal,Male,Personal Care,54.36,3,163.08,E-wallet,05/02/2024,18:35:00,Monday,8.15,154.93,10
+INV-0946,C,Chicago,Member,Male,Beverages,9.11,5,45.55,Credit Card,17/03/2024,11:13:00,Sunday,2.28,43.27,2
+INV-0947,C,Chicago,Normal,Female,Beverages,25.95,5,129.75,Cash,25/03/2024,16:35:00,Monday,6.49,123.26,9
+INV-0948,B,Los Angeles,Member,Female,Clothing,37.18,3,111.54,Credit Card,17/02/2024,20:38:00,Saturday,5.58,105.96,7
+INV-0949,C,Chicago,Normal,Male,Personal Care,56.11,1,56.11,Credit Card,16/01/2024,21:43:00,Tuesday,2.81,53.3,2
+INV-0950,C,Chicago,Normal,Female,Electronics,44.28,5,221.4,Credit Card,23/03/2024,14:02:00,Saturday,11.07,210.33,7
+INV-0951,C,Chicago,Member,Male,Electronics,40.47,3,121.41,Cash,09/01/2024,08:31:00,Tuesday,6.07,115.34,3
+INV-0952,B,Los Angeles,Normal,Female,Beverages,65.58,5,327.9,E-wallet,03/01/2024,15:24:00,Wednesday,16.39,311.51,10
+INV-0953,B,Los Angeles,Member,Male,Snacks,23.08,5,115.4,Cash,18/02/2024,21:51:00,Sunday,5.77,109.63,1
+INV-0954,C,Chicago,Normal,Female,Personal Care,15.73,7,110.11,Credit Card,25/01/2024,14:58:00,Thursday,5.51,104.6,7
+INV-0955,A,New York,Normal,Male,Electronics,22.88,4,91.52,E-wallet,29/01/2024,18:47:00,Monday,4.58,86.94,4
+INV-0956,B,Los Angeles,Normal,Male,Snacks,17.99,2,35.98,Cash,15/03/2024,18:21:00,Friday,1.8,34.18,1
+INV-0957,C,Chicago,Normal,Female,Electronics,45.36,10,453.6,E-wallet,12/02/2024,14:18:00,Monday,22.68,430.92,6
+INV-0958,A,New York,Member,Male,Home Appliances,77.35,10,773.5,Cash,26/03/2024,08:24:00,Tuesday,38.68,734.82,5
+INV-0959,A,New York,Member,Female,Home Appliances,35.14,5,175.7,Credit Card,15/01/2024,14:18:00,Monday,8.79,166.91,8
+INV-0960,B,Los Angeles,Member,Female,Electronics,18.37,3,55.11,Credit Card,25/03/2024,19:15:00,Monday,2.76,52.35,5
+INV-0961,A,New York,Member,Male,Clothing,56.6,7,396.2,E-wallet,05/03/2024,13:39:00,Tuesday,19.81,376.39,2
+INV-0962,B,Los Angeles,Normal,Male,Electronics,5.28,7,36.96,E-wallet,01/02/2024,08:26:00,Thursday,1.85,35.11,1
+INV-0963,B,Los Angeles,Member,Female,Electronics,70.7,5,353.5,Credit Card,05/01/2024,09:07:00,Friday,17.68,335.82,4
+INV-0964,B,Los Angeles,Member,Male,Beverages,34.54,8,276.32,E-wallet,14/02/2024,19:57:00,Wednesday,13.82,262.5,8
+INV-0965,B,Los Angeles,Normal,Male,Home Appliances,21.46,4,85.84,Credit Card,05/03/2024,20:26:00,Tuesday,4.29,81.55,7
+INV-0966,B,Los Angeles,Normal,Female,Beverages,91.3,7,639.1,Credit Card,18/03/2024,11:11:00,Monday,31.96,607.14,2
+INV-0967,B,Los Angeles,Member,Female,Snacks,52.14,9,469.26,E-wallet,22/03/2024,17:59:00,Friday,23.46,445.8,4
+INV-0968,B,Los Angeles,Normal,Male,Snacks,79.05,3,237.15,Credit Card,30/03/2024,16:31:00,Saturday,11.86,225.29,3
+INV-0969,A,New York,Member,Female,Clothing,81.29,8,650.32,Credit Card,10/03/2024,13:20:00,Sunday,32.52,617.8,8
+INV-0970,B,Los Angeles,Normal,Female,Electronics,65.69,7,459.83,Cash,18/03/2024,21:45:00,Monday,22.99,436.84,8
+INV-0971,C,Chicago,Normal,Female,Electronics,39.32,10,393.2,E-wallet,18/02/2024,20:28:00,Sunday,19.66,373.54,1
+INV-0972,C,Chicago,Member,Male,Snacks,86.46,1,86.46,Cash,24/03/2024,10:11:00,Sunday,4.32,82.14,8
+INV-0973,B,Los Angeles,Member,Male,Beverages,33.48,4,133.92,Credit Card,01/03/2024,15:38:00,Friday,6.7,127.22,1
+INV-0974,B,Los Angeles,Member,Male,Beverages,90.9,8,727.2,Credit Card,16/01/2024,18:59:00,Tuesday,36.36,690.84,1
+INV-0975,C,Chicago,Member,Male,Electronics,33.24,7,232.68,Cash,17/02/2024,11:25:00,Saturday,11.63,221.05,9
+INV-0976,B,Los Angeles,Normal,Female,Snacks,30.47,7,213.29,E-wallet,01/03/2024,16:54:00,Friday,10.66,202.63,1
+INV-0977,A,New York,Member,Female,Beverages,78.36,9,705.24,Credit Card,09/02/2024,13:55:00,Friday,35.26,669.98,3
+INV-0978,B,Los Angeles,Member,Male,Personal Care,93.55,10,935.5,Credit Card,05/01/2024,13:01:00,Friday,46.78,888.72,9
+INV-0979,B,Los Angeles,Member,Female,Beverages,15.79,8,126.32,E-wallet,20/02/2024,12:38:00,Tuesday,6.32,120,10
+INV-0980,B,Los Angeles,Normal,Female,Clothing,59.62,2,119.24,E-wallet,31/01/2024,13:34:00,Wednesday,5.96,113.28,4
+INV-0981,A,New York,Normal,Male,Electronics,78.86,4,315.44,Credit Card,04/02/2024,16:39:00,Sunday,15.77,299.67,1
+INV-0982,B,Los Angeles,Normal,Male,Snacks,27.05,7,189.35,E-wallet,07/02/2024,15:00:00,Wednesday,9.47,179.88,7
+INV-0983,A,New York,Normal,Male,Beverages,56.44,2,112.88,Credit Card,15/03/2024,21:21:00,Friday,5.64,107.24,3
+INV-0984,A,New York,Normal,Male,Home Appliances,69.89,1,69.89,Credit Card,04/02/2024,17:44:00,Sunday,3.49,66.4,8
+INV-0985,B,Los Angeles,Normal,Male,Clothing,43.8,7,306.6,Credit Card,10/03/2024,11:53:00,Sunday,15.33,291.27,5
+INV-0986,C,Chicago,Member,Male,Beverages,34.68,6,208.08,Credit Card,23/02/2024,09:26:00,Friday,10.4,197.68,5
+INV-0987,C,Chicago,Member,Male,Electronics,35.03,3,105.09,E-wallet,06/03/2024,11:41:00,Wednesday,5.25,99.84,2
+INV-0988,B,Los Angeles,Member,Female,Personal Care,83.34,1,83.34,Credit Card,01/03/2024,12:40:00,Friday,4.17,79.17,4
+INV-0989,B,Los Angeles,Normal,Male,Snacks,23.63,7,165.41,Cash,04/03/2024,15:19:00,Monday,8.27,157.14,6
+INV-0990,B,Los Angeles,Normal,Female,Personal Care,38.35,5,191.75,E-wallet,24/01/2024,21:43:00,Wednesday,9.59,182.16,5
+INV-0991,C,Chicago,Member,Male,Clothing,81.83,6,490.98,Credit Card,11/03/2024,10:51:00,Monday,24.55,466.43,5
+INV-0992,B,Los Angeles,Member,Male,Clothing,81.96,1,81.96,Cash,09/01/2024,18:20:00,Tuesday,4.1,77.86,5
+INV-0993,A,New York,Normal,Male,Snacks,94.24,2,188.48,Cash,31/01/2024,08:21:00,Wednesday,9.42,179.06,1
+INV-0994,A,New York,Normal,Male,Beverages,93.84,5,469.2,Credit Card,11/02/2024,16:50:00,Sunday,23.46,445.74,1
+INV-0995,C,Chicago,Member,Female,Clothing,30.74,7,215.18,Cash,13/01/2024,09:04:00,Saturday,10.76,204.42,7
+INV-0996,A,New York,Member,Male,Personal Care,50.85,1,50.85,E-wallet,05/01/2024,14:42:00,Friday,2.54,48.31,7
+INV-0997,C,Chicago,Normal,Male,Electronics,7.47,2,14.94,E-wallet,27/01/2024,11:15:00,Saturday,0.75,14.19,6
+INV-0998,C,Chicago,Normal,Male,Personal Care,83.55,4,334.2,Credit Card,11/02/2024,17:33:00,Sunday,16.71,317.49,10
+INV-0999,A,New York,Member,Female,Clothing,93.57,10,935.7,Cash,30/01/2024,13:43:00,Tuesday,46.79,888.91,6
+INV-1000,C,Chicago,Normal,Male,Personal Care,54.41,9,489.69,Credit Card,29/01/2024,09:50:00,Monday,24.48,465.21,2
