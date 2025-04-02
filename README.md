@@ -44,11 +44,11 @@ The dataset includes:
 🔥 **Peak Sales in Evenings & Weekends** → Sales are highest between **5 PM - 8 PM** and on **Saturdays**.  
 ⚠️ **Product Lines with High Sales & Low Ratings** → Electronics, Snacks, and Clothing have strong sales but poor customer satisfaction.  
 
- ##📢 Business Recommendations  
+## 📢 Business Recommendations  
 1️⃣ **Improve Product Quality & After-Sales Support** for low-rated, high-selling items.  
 2️⃣ **Use Promotional Strategies** to drive sales instead of relying on ratings.  
 3️⃣ **Optimize Inventory & Staffing** based on peak sales hours and high-demand days.  
-4️⃣**Adjust Pricing & Discounts** to align with demand trends.  
+4️⃣ **Adjust Pricing & Discounts** to align with demand trends.  
 
 ## 👨‍💻 Author/ Contributor 
    **I am [Oluseyi Adeyemo]**, Data Analysis & Power BI Visualization. If you think you can add/correct/edit and enhance this project you are most welcome 🙏
