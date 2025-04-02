@@ -1,1 +1,39 @@
-# Sales-vs-Customer-Ratings-Analysis-in-Power-BI
+# 📊 Sales vs Customer Ratings Analysis in Power BI  
+
+![Power BI Dashboard](https://your-image-link-here.com) 
+👉 **Click the image to see the Dashboard** 
+
+## 📌 Project Overview  
+This project explores the **correlation between sales and customer ratings** using **Power BI**. The goal is to understand whether **higher customer ratings drive more sales** and how businesses can optimize their strategies using **data-driven insights** to identify **key sales patterns**, **peak demand periods**, and **underperforming product lines**.
+
+## 🚀 Key Features  
+✅ **Correlation Analysis** → Measures the impact of customer ratings on sales.  
+✅ **Time-Based Sales Trends** → Identifies peak sales hours and high-demand days.  
+✅ **Interactive Power BI Dashboard** → Filters & slicers for deep analysis.  
+✅ **Heatmap Visualization** → Highlights low-rated, high-selling product lines.  
+✅ **Data-Driven Business Recommendations** → Practical strategies for improving sales.  
+
+## 📁 Dataset  
+The dataset includes:  
+📌 **Date & Time of Sales**  
+📌 **Total Sales Amount**  
+📌 **Customer Ratings (1-10 Scale)**  
+📌 **Product Line & Categories**  
+📌 **Store Locations (City-Based Analysis)**  
+
+## 📊 Analysis & Insights  
+📈 **Correlation Coefficient Calculation** → Determines the strength of the relationship between ratings & sales.  
+📊 **Trendline & Time-Based Analysis** → Identifies peak sales hours & seasonal demand.
+📊 **Trendline & Sales-City Based Analysis** → Identifies different cities with highest and lowest sales.
+🔥 **Heatmap Visualization** → Highlights low-rated but high-selling products.  
+🎯 **Slicer-Enabled Filtering** → Allows analysis by city, product line, and rating groups.  
+
+## 🛠️ Tools & Technologies  
+🔹 **Power BI** → Data modeling, visualization, and dashboard creation.  
+🔹 **Power Query** → Data transformation & cleaning.  
+🔹 **DAX (Data Analysis Expressions)** → Custom calculations & correlation metrics.  
+
+## 📌 How to Use This Project  
+1️⃣ **Clone the Repository**:  
+```sh
+git clone https://github.com/yourusername/Sales-vs-Ratings-Analysis.git
