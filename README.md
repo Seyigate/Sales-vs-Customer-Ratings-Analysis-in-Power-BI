@@ -18,7 +18,7 @@ This project explores the **correlation between sales and customer ratings** usi
 ✅ **Data-Driven Business Recommendations** → Practical strategies for improving sales.  
 
 ## 📁 Dataset
-[Download dataset.csv](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/11dee903c9053f46b71963ddf1e7b1896ed3436e/Bluegate%20Supermarket%20Dataset.csv)
+👉 **Click the link below to see the Dashboard**   [Download dataset.csv](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/11dee903c9053f46b71963ddf1e7b1896ed3436e/Bluegate%20Supermarket%20Dataset.csv)
 
 The dataset includes:  
 📌 **Date & Time of Sales**  
