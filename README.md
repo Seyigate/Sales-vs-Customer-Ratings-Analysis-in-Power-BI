@@ -3,6 +3,10 @@
 ![Power BI Dashboard](https://your-image-link-here.com) 
 👉 **Click the image to see the Dashboard** 
 
+Help suport this project!!!
+
+<a href="https://www.buymeacoffee.com/seyiphysica" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## 📌 Project Overview  
 This project explores the **correlation between sales and customer ratings** using **Power BI**. The goal is to understand whether **higher customer ratings drive more sales** and how businesses can optimize their strategies using **data-driven insights** to identify **key sales patterns**, **peak demand periods**, and **underperforming product lines**.
 
