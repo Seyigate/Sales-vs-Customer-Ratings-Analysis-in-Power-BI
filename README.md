@@ -42,7 +42,7 @@ The dataset includes:
 ## How can I thank you for writing and sharing this tutorial? 🌷
 You can ⭐ **Star** if useful and 🍴 **Fork** if useful! Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this project.
 
-Go [here](https://github.com/YOUR-USERNAME/YOUR-REPO) if you aren’t here already and click → ⭐ **Star** and 🍴 **Fork** button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
+Go [here](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI) if you aren’t here already and click → ⭐ **Star** and 🍴 **Fork** button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
 
 ## 📌 How to Use This Project  
