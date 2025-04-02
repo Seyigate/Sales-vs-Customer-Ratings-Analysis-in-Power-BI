@@ -1,9 +1,5 @@
 # 📊 Sales vs Customer Ratings Analysis in Power BI  
 
-👉 **Click the image to see the Dashboard** 
-![Power BI Dashboard] https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/main/POWER%20BI%20DASHBOARD.JPG
-
-
 Help suport this project!!!
 
 <a href="https://www.buymeacoffee.com/seyiphysica" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
@@ -42,3 +38,12 @@ The dataset includes:
 1️⃣ **Clone the Repository**:  
 ```sh
 git clone https://github.com/yourusername/Sales-vs-Ratings-Analysis.git
+
+
+
+### **✅ Next Steps:**  
+1️⃣ 👉 **Click the image to see the Dashboard** 
+ https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/main/POWER%20BI%20DASHBOARD.JPG
+
+
+
