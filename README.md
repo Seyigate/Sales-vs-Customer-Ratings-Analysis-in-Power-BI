@@ -1,11 +1,14 @@
 # 📊 Sales vs Customer Ratings Analysis in Power BI  
 
 Help suport this project!!!
-
 <a href="https://www.buymeacoffee.com/seyiphysica" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## 📌 Project Overview  
 This project explores the **correlation between sales and customer ratings** using **Power BI**. The goal is to understand whether **higher customer ratings drive more sales** and how businesses can optimize their strategies using **data-driven insights** to identify **key sales patterns**, **peak demand periods**, and **underperforming product lines**.
+
+### **✅ Next Steps:**  
+1️⃣ 👉 **Click the image to see the Dashboard** 
+ https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/main/POWER%20BI%20DASHBOARD.JPG
 
 ## 🚀 Key Features  
 ✅ **Correlation Analysis** → Measures the impact of customer ratings on sales.  
@@ -34,23 +37,8 @@ The dataset includes:
 🔹 **Power Query** → Data transformation & cleaning.  
 🔹 **DAX (Data Analysis Expressions)** → Custom calculations & correlation metrics. 
 
-### **✅ Next Steps:**  
-1️⃣ 👉 **Click the image to see the Dashboard** 
- https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/main/POWER%20BI%20DASHBOARD.JPG
-
-
-
-
 ## 📌 How to Use This Project  
 1️⃣ **Clone the Repository**:  
 ```sh
 git clone https://github.com/yourusername/Sales-vs-Ratings-Analysis.git
-
-
-
-### **✅ Next Steps:**  
-1️⃣ 👉 **Click the image to see the Dashboard** 
- https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/main/POWER%20BI%20DASHBOARD.JPG
-
-
 
