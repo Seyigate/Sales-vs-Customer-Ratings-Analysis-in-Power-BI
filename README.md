@@ -39,8 +39,16 @@ The dataset includes:
 🔹 **Power Query** → Data transformation & cleaning.  
 🔹 **DAX (Data Analysis Expressions)** → Custom calculations & correlation metrics. 
 
+## How can I thank you for writing and sharing this tutorial? 🌷
+You can ⭐ **Star** if useful and 🍴 **Fork** if useful! Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this project.
+
+Go [here](https://github.com/YOUR-USERNAME/YOUR-REPO) if you aren’t here already and click → ⭐ **Star** and 🍴 **Fork** button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
+
+
 ## 📌 How to Use This Project  
 1️⃣ **Clone the Repository**:  
+
+
 ```sh
 git clone https://github.com/yourusername/Sales-vs-Ratings-Analysis.git
 2️⃣ Open Power BI File: Load the .pbix file in Power BI Desktop.
