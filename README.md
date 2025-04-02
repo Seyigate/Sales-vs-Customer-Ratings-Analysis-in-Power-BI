@@ -7,7 +7,8 @@
 ## 📌 Project Overview  
 This project explores the **correlation between sales and customer ratings** using **Power BI**. The goal is to understand whether **higher customer ratings drive more sales** and how businesses can optimize their strategies using **data-driven insights** to identify **key sales patterns**, **peak demand periods**, and **underperforming product lines**.
  
- 👉 **Click the link below to see the Dashboard**  ![Power BI Dashboard](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/main/POWER%20BI%20DASHBOARD.JPG)
+ 👉 **Click the link below to see the Dashboard**
+ ![Download Power BI Dashboard](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/main/POWER%20BI%20DASHBOARD.JPG)
 
 ## 🚀 Key Features  
 ✅ **Correlation Analysis** → Measures the impact of customer ratings on sales.  
