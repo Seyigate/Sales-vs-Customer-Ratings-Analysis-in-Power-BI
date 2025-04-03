@@ -30,7 +30,7 @@ The dataset includes:
 ## 📊 Analysis & Insights  
 📈 **Correlation Coefficient Calculation** → Determines the strength of the relationship between ratings & sales.  
 📊 **Trendline & Time-Based Analysis** → Identifies peak sales hours & seasonal demand.
-📊 **Trendline & Sales-City Based Analysis** → Identifies different cities with highest and lowest sales.
+📈 **Trendline & Sales-City Based Analysis** → Identifies different cities with highest and lowest sales.
 🔥 **Heatmap Visualization** → Highlights low-rated but high-selling products.  
 🎯 **Slicer-Enabled Filtering** → Allows analysis by city, product line, and rating groups.  
 
