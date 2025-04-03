@@ -39,9 +39,7 @@ The dataset includes:
 🔹 **DAX (Data Analysis Expressions)** → Custom calculations & correlation metrics.
 
 ## 📌 How to Use This Project  
-1️⃣ **Clone the Repository**: 
-```sh
-git clone https://github.com/yourusername/Sales-vs-Ratings-Analysis.git ```sh
+1️⃣ **Clone the Repository**: ```sh git clone https://github.com/yourusername/Sales-vs-Ratings-Analysis.git ```sh
 2️⃣ Open Power BI File: Load the .pbix file in Power BI Desktop.
 3️⃣ Explore the Dashboard: Use filters and slicers to analyze trends.
 4️⃣ Modify & Customize: Adjust DAX formulas or add new metrics as needed.
