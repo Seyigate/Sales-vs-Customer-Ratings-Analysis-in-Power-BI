@@ -56,7 +56,7 @@ The dataset includes:
 4️⃣ **Adjust Pricing & Discounts** to align with demand trends.  
 
 ## 👨‍💻 Author/ Contributor 
-   **I am [Oluseyi Adeyemo]**(https://github.com/Seyigate), Data Analysis & Power BI Visualization. If you think you can add/correct/edit and enhance this project you are most welcome 🙏
+   **I am [Oluseyi Adeyemo](https://github.com/Seyigate) Data Analysis & Power BI Visualization. If you think you can add/correct/edit and enhance this project you are most welcome 🙏
   
 ## How can I thank you for writing and sharing this tutorial? 🌷
    You can ⭐ **Star** if useful and 🍴 **Fork** if useful! Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this project.
