@@ -38,6 +38,14 @@ The dataset includes:
 🔹 **Power Query** → Data transformation & cleaning.  
 🔹 **DAX (Data Analysis Expressions)** → Custom calculations & correlation metrics.
 
+## 📌 How to Use This Project  
+1️⃣ **Clone the Repository**: 
+```sh
+git clone https://github.com/yourusername/Sales-vs-Ratings-Analysis.git
+2️⃣ Open Power BI File: Load the .pbix file in Power BI Desktop.
+3️⃣ Explore the Dashboard: Use filters and slicers to analyze trends.
+4️⃣ Modify & Customize: Adjust DAX formulas or add new metrics as needed.
+
 ## 🔍 Key Findings  
 📊 **Weak Positive Correlation (0.05)** → Ratings have a minimal direct impact on sales.  
 🔥 **Peak Sales in Evenings & Weekends** → Sales are highest between **5 PM - 8 PM** and on **Saturdays**.  
@@ -51,8 +59,8 @@ The dataset includes:
 
 ## 👨‍💻 Author/ Contributor 
    **I am [Oluseyi Adeyemo]**, Data Analysis & Power BI Visualization. If you think you can add/correct/edit and enhance this project you are most welcome 🙏
-   
-   ## How can I thank you for writing and sharing this tutorial? 🌷
+  
+## How can I thank you for writing and sharing this tutorial? 🌷
    You can ⭐ **Star** if useful and 🍴 **Fork** if useful! Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this project.
 
    Go [here](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI) if you aren’t here already and click → ⭐ **Star** and 🍴 **Fork** button in the top right    
@@ -63,16 +71,10 @@ This project is open-source under the **MIT License**.
 
 ## 📬 Contact  
 For any inquiries or suggestions, feel free to reach out via:  
-📧 Email: [allocationthesolutions@gmail.com]  
-📌 LinkedIn: [https://www.linkedin.com/in/oluseyi-adeyemo/] 
+📧 Email: allocationthesolutions@gmail.com
+📌 LinkedIn: https://www.linkedin.com/in/oluseyi-adeyemo/
 
-## 📌 How to Use This Project  
-1️⃣ **Clone the Repository**: 
-```sh
-git clone https://github.com/yourusername/Sales-vs-Ratings-Analysis.git
-2️⃣ Open Power BI File: Load the .pbix file in Power BI Desktop.
-3️⃣ Explore the Dashboard: Use filters and slicers to analyze trends.
-4️⃣ Modify & Customize: Adjust DAX formulas or add new metrics as needed.
+
 
 
 
