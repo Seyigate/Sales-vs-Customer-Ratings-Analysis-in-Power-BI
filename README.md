@@ -68,7 +68,7 @@ This project is open-source under the **MIT License**.
 
 ## 📬 Contact  
 For any inquiries or suggestions, feel free to reach out via:  
-📧 Email: allocationthesolutions@gmail.com
+📧 Email: seyiphysics@gnail.com@gmail.com
 
 📌 LinkedIn: https://www.linkedin.com/in/oluseyi-adeyemo/
 
